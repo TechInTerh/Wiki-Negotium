@@ -1,0 +1,18 @@
+properties:
+  note.drawback:
+    displayName: keywords
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Negotium/Armors/list_armors")
+    order:
+      - file.name
+      - armor_point
+      - type
+    sort:
+      - property: type
+        direction: DESC
+    columnSize:
+      file.name: 118

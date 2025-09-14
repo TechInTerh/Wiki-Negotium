@@ -1,10 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Wiki Negotium
 draft: false
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-look at [[fenix]]
-look at [[victor]]
-Look at [[my_base.base]]
+Welcome to the Negotium wiki.

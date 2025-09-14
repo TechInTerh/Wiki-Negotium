@@ -1,0 +1,1 @@
+You need only one hand to hold the weapon, allowing you to hold 2 one-handed equipements.
