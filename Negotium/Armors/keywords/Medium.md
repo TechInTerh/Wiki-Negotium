@@ -1,0 +1,1 @@
+-1d6 to each stealth/athletism roll.
