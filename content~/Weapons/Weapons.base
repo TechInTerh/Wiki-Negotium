@@ -1,0 +1,32 @@
+properties:
+  note.keywords:
+    displayName: range
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Negotium/Weapons/list_weapons")
+    order:
+      - file.name
+      - touch bonus
+      - damages
+      - abilities
+      - keywords
+      - handed
+      - notes
+    sort:
+      - property: keywords
+        direction: ASC
+      - property: touch bonus
+        direction: DESC
+      - property: damages
+        direction: ASC
+    columnSize:
+      note.abilities: 209
+      note.keywords: 110
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.inFolder("Negotium/Weapons")

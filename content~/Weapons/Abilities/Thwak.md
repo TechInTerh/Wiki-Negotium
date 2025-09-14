@@ -1,0 +1,1 @@
+Reroll each damage dice you want. But you must keep the new result.

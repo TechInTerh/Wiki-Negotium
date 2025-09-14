@@ -1,0 +1,1 @@
+You need both hand to hold and use the weapon.

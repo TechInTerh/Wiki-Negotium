@@ -1,0 +1,1 @@
+Deal extra damage next turn.
