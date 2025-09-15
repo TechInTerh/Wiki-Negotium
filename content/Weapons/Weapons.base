@@ -6,7 +6,7 @@ views:
     name: Table
     filters:
       and:
-        - file.inFolder("Negotium/Weapons/list_weapons")
+        - file.inFolder("Negotium/public_wiki/Weapons/list_weapons")
     order:
       - file.name
       - touch bonus
@@ -16,6 +16,8 @@ views:
       - handed
       - notes
     sort:
+      - property: notes
+        direction: ASC
       - property: keywords
         direction: ASC
       - property: touch bonus

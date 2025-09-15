@@ -6,7 +6,7 @@ views:
     name: Table
     filters:
       and:
-        - file.inFolder("Negotium/Armors/list_armors")
+        - file.inFolder("Negotium/public_wiki/Armors/list_armors")
     order:
       - file.name
       - armor_point

@@ -1,3 +1,6 @@
+---
+Created: 2024-10-05T17:46
+---
 _Je sens, votre âme m'appelle. Oui, elle me veut, elle a besoin de moi. Quoi ? Vous refusez de la partager ? Alors, je vais la prendre de force, de votre cadavre s'il le faut._
 
 ## Description :
@@ -24,8 +27,10 @@ _Exemple : Le joueur Gary veut absorber l’âme d’un apprenti magicien. Son s
 
 Une fois l'âme acquise, il est possible de l'utiliser de plusieurs manières :
 
-- Corrompre l'âme afin qu'elle rejoigne le joueur en tant qu'esclave. (Cf, chapitre sur la corruption). Le joueur à l’avantage pour tous jets de corruption.
-- La libérer afin de créer un fantôme tourmentant les ennemis. Il s’agit d’une banshee plus ou moins puissant en fonction du niveau de l’âme (N). Une fois libérée, chaque ennemi se trouvant dans une zone de 3+3_N mètres doit faire un jet de résistance mentale de 1 + 2_N, sous peine d’être terrifié pendant un nombre de tours égal au N de l’âme, et subir (2*N)d4 de dégâts immédiats. L’âme s'évapore ensuite.
+- Corrompre l'âme afin qu'elle rejoigne le joueur en tant qu'esclave.  
+    (Cf, chapitre sur la corruption). Le joueur à l’avantage pour tous jets de corruption.
+- La libérer afin de créer un fantôme tourmentant les ennemis.  
+    Il s’agit d’une banshee plus ou moins puissant en fonction du niveau de l’âme (N). Une fois libérée, chaque ennemi se trouvant dans une zone de 3+3*N mètres doit faire un jet de résistance mentale de 1 + 2*N, sous peine d’être terrifié pendant un nombre de tours égal au N de l’âme, et subir (2*N)d4 de dégâts immédiats. L’âme s'évapore ensuite.
 - La placer dans un objet inerte pour l’animer et qu’elle devienne animée. (Armure, épée, porte…)
 - La replacer dans son corps d’origine.
 - La placer dans un nouveau corps. Il y aura dans ce cas un jet d’opposition de résistance mental entre les deux âmes et le vainqueur prendra le contrôle du corps.
@@ -37,8 +42,11 @@ Chaque âme ne se vaut pas. Certains représentent seulement le péquenaud moyen
 
 Le joueur ne peut stocker qu’un nombre limité d’âmes en simultané.
 
-|Niveau|Niveau d’âme stockable|Niveau max d’une âme|Nombre de dés de base pour l’absorption|
+  
+
+|   |   |   |   |
 |---|---|---|---|
+|Niveau|Niveau d’âme stockable|Niveau max d’une âme|Nombre de dés de base pour l’absorption|
 |1|5|2|1|
 |2|15|3|3|
 |3|50|4|9|
