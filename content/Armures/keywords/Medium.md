@@ -1,0 +1,1 @@
+-1d6 pour chaque jet d'athlétisme ou de discrétion.

@@ -1,1 +1,0 @@
-You can attack using a small action.

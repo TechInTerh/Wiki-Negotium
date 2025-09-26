@@ -1,0 +1,11 @@
+
+|      file name       | Bonus pour toucher | Dégâts | Capacités                                            | Portée       | Prise en main  |                                   notes                                   |
+| -------------------- | ------------------ | ------ | ---------------------------------------------------- | ------------ | -------------- | ------------------------------------------------------------------------- |
+|         Arc          | 0                  | 3d6    | [[Entraver (Hinder)]]                                | [[Distance]] | [[Two-handed]] |       [[Rechargement (Reload)]], [[Attaque rapide (Quick attack)]]        |
+|       Arbalète       | 0                  | 4d6    | [[Entraver (Hinder)]]                                | [[Distance]] | [[Two-handed]] | [[Rechargement lent (Slow reloading)]], [[Attaque rapide (Quick attack)]] |
+|     Epée courte      | 2d6                | 2d6    | [[Parrer (Parry)]]                                   | [[Contact]]  | [[One-handed]] |                                                                           |
+|     Epée longue      | 2d6                | 3d6    | [[Fendre (Cleaves)]], [[Parrer (Parry)]]             | [[Contact]]  | [[Two-handed]] |                                                                           |
+| Hache à une une main | 0                  | 3d6    | [[Frappe (Thwak)]]                                   | [[Contact]]  | [[One-handed]] |                                                                           |
+|    Hache à mains     | 0                  | 4d6    | [[Fendre (Cleaves)]], [[Frappe (Thwak)]]             | [[Contact]]  | [[Two-handed]] |                                                                           |
+|    Marteau léger     | -2d6               | 4d6    | [[Smash]], [[Pousser (Shove)]]                       | [[Contact]]  | [[One-handed]] |                                                                           |
+|  Marteau de guerre   | -2d6               | 5d6    | [[Fendre (Cleaves)]], [[Pousser (Shove)]], [[Smash]] | [[Contact]]  | [[Two-handed]] |                                                                           |

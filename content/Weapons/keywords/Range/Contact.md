@@ -1,1 +1,0 @@
-To touch an ennemy, you need to be in contact

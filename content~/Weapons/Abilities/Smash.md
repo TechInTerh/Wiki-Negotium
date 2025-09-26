@@ -1,1 +1,0 @@
-Reduce the armour of the victim.

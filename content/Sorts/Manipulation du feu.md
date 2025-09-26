@@ -15,41 +15,39 @@ En général, cela se définit s'il y a une ou plusieurs cibles et si le sort se
 
 En général, cela demande une action d’attaque.
 
-Si un sort demande un jet de confrontation (e.g. brûler, repousser, enchanter un adversaire…), le nombre de jet correspondra.
+Si un sort demande un jet de confrontation (e.g. brûler, repousser, enchanter un adversaire…), le nombre de jets correspondra.
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-||Cible unique/petite zone, éphémère. (Rayon, point, boule…)|Cible unique/Petite zone, prolongée. (Flamme, aura, chauffer de l’équipement…)|Grande Zone/plusieurs, cibles éphémères (Souffle, explosion…)|Grande Zone/plusieurs cibles, prolongées. (Mur, sphère…)|
-|Niveau 0  <br>Coût : 0 pt|Dégât : 2d4  <br>Portée : 3m|Dégât : 1d4  <br>Portée : Contact|Dégât : 1d4  <br>Portée : 3m|X|
-|Niveau 1  <br>Coût : 1-3 pt|**Dégât :** 4-5d4  **Portée :** 9-18m|**Dégât :** 2-4d4  / tour**Portée : 3-**9m|**Dégâts :** 3-4d4 **Portée :** 3-9m.|**Dégâts :** 2-3d4 / tour**Portée :** 3m.|
-|Niveau 2  <br>Coût : 4-7 pt|**Dégât :** 6-10d4  **Portée :** 9-36m|**Dégât :** 5-8d4 / tour**Portée :** 9-18m|**Dégât :** 5-8d4 **Portée :** 3-18m **Largeur :** 4,5m|**Dégâts :** 4-6d4 / tour**Portée :** 3-6m|
+|                             |                                                            |                                                                                |                                                               |                                                          |
+| --------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------- | -------------------------------------------------------- |
+|                             | Cible unique/petite zone, éphémère. (Rayon, point, boule…) | Cible unique/Petite zone, prolongée. (Flamme, aura, chauffer de l’équipement…) | Grande Zone/plusieurs, cibles éphémères (Souffle, explosion…) | Grande Zone/plusieurs cibles, prolongées. (Mur, sphère…) |
+| Niveau 1  <br>Coût : 1-2 pt | **Dégât :** 3d6  <br>**Portée :** 9-18m                    | **Dégât :** 2d6  / tour<br>**Portée : 3-**9m                                   | **Dégâts :** 2d6 <br>**Portée :** 3-9m.                       | X                                                        |
+| Niveau 2  <br>Coût : 3-5 pt | **Dégât :** 7d6  <br>**Portée :** 9-36m                    | **Dégât :** 4d6 / tour<br>**Portée :** 9-18m                                   | **Dégât :** 4d6 <br>**Portée :** 3-18m<br>**Largeur :** 4,5m  | **Dégâts :** 3d6 / tour<br>**Portée :** 3-6m             |
+| Niveau 3<br>Coût : 6-8 pt   | **Dégât :** 12d6  <br>**Portée :** 9-36m                   | **Dégât :** 9d6 / tour<br>**Portée :** 9-18m                                   | **Dégât :** 7d6 <br>**Portée :** 3-18m<br>**Largeur :** 4,5m  | **Dégâts :** 5d6 / tour<br>**Portée :** 3-6m             |
 
-### **Exemples de sorts de dégâts**
-
-C’est une base, elles peuvent être modifiées par le joueur/MJ.
+### Exemples de sorts de dégâts
 
 _**Titre :** description (Niveau du sort, couts, dégâts, portées)_
+##### Niveau 1
+_**Projectile de feu :**_ Un Éclat de feu plonge vers une cible. (Niv 1, 1pt, 3d6, 18m)
 
-**Briquet :** Une flammèche apparait dans votre main. Vous pouvez la lancer ensuite sur une cible proche (Niv 0, 0pt, 2d4, 3m)
+_**Aura de feu :**_ Des flammes apparaissent autour de vous ou d’un objet de votre choix (vous devez le voir). Cela inflige des dégâts par tour à tous les ennemis à votre contact. (Niv 1, 1pt/tour, 2d6/tour, contact de l’aura)
 
-_**Projectile de feu :**_ Un Éclat de feu plonge vers une cible. (Niv 1, 1pt, 4d4, 18m)
+_**Souffles de feu :**_ Un crachat de flammes brûlant tous sur son passage. Cône largeur de 3 mètres. (Niv 1, 2pt, 2d6, 6m)
 
-_**Aura de feu :**_ Des flammes apparaissent autour de vous ou d’un objet de votre choix (vous devez le voir). Cela inflige des dégâts par tour à tous les ennemis à votre contact. (Niv 1, 2pt/tour, 2d4/tour, contact de l’aura)
+_**Métal brulant :**_ Le lanceur tente de chauffer le métal pour le rendre brûlant à toutes créatures en contact physique. (Niv 1, 1pt / tour, 2d4 /tour, 9m)
 
-_**Souffles de feu :**_ Un crachat de flammes brûlant tous sur son passage. Cone largeur de 3 mètres. (Niv 1, 3pt, 4d4, 6m)
+##### Niveau 2
 
-_**Métal brulant :**_ Le lanceur tente de chauffer le métal pour le rendre brûlant à toute créatures en contact physique. (Niv 1, 1pt / tour, 2d4 /tour, 9m)
+_**Mur de feu :**_ Un mur de feu s’élève et barre le chemin de tout adversaire. Vous décidez de la forme du mur. (Niv 2, 3pt/tour, 3d6 / tour, ligne de 6m)
 
-_**Mur de feu :**_ Un mur de feu s’élève et barre le chemin de tout adversaire. Vous décidez de la forme du mur. (Niv 2, 4pt/tour, 6d4 / tour, ligne de 6m)
+_**Vague explosive :**_ Une énorme explosion propulse toutes les créatures autour du lanceur. Ils sont propulsés sur 6m à moins de faire un jet confrontation de constitution. (Niv 2, 4pt, 4d6, 6m autour du lanceur).
 
-_**Vague explosive :**_ Une énorme explosion propulse toutes les créatures autour du lanceur. Ils sont propulsés sur 6m à moins de faire un jet confrontation de constitution. (Niv 2, 4pt, 6d4, 6m autour du lanceur).
-
-_**Boule de feu majeure :**_ Une éclatante traînée lumineuse est émise de la pointe de votre doigt vers un point de votre choix dans la portée du sort, puis s'amplifie dans un rugissement grave jusqu'à éclater en flammes. (Niv 2, 5pt, 7d4, 18m de disitance et toute créature à 3m autour de la boule).
+_**Boule de feu majeure :**_ Une éclatante traînée lumineuse est émise de la pointe de votre doigt vers un point de votre choix dans la portée du sort, puis s'amplifie dans un rugissement grave jusqu'à éclater en flammes. (Niv 2, 5pt, 6d6, 18m de distance et toute créature à 3m autour de la boule).
 
   
 
-_Notes : il s’agit d’indications qui vise à aider le joueur et le MJ et utiliser ce sort. Le joueur peut tout à fait lancer une boule de feu au niveau 1. Mais celle sa puissance sera réduite, par exemple par ses dégâts ou sa portée._  
-_Pour gagner du temps lors des sessions, il est vivement conseillé que le joueur prépare une liste de capacités validé par le MJ avant la séance._
+_Notes : il s’agit d’indications qui visent à aider le joueur et le MJ, et à utiliser ce sort. Le joueur peut tout à fait lancer une boule de feu au niveau 1. Mais, sa puissance sera réduite, par exemple, par ses dégâts ou sa portée._  
+_Pour gagner du temps lors des sessions, il est vivement conseillé que le joueur prépare une liste de capacités validée par le MJ avant la séance._
 
 ## Autres
 

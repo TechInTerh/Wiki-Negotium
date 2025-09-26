@@ -1,1 +1,0 @@
-Attack each person in front (axe)

@@ -1,0 +1,1 @@
+Vous devez utiliser une grande action pour recharger.

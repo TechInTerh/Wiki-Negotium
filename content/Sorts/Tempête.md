@@ -1,28 +1,85 @@
 ---
 Created: 2024-10-05T17:15
 ---
-_Avez-vous déjà demandé d’où vient la tempête ? Cette foudre qui tombe, ce vent fort, mais aussi cette averse ou ces sphères de foudre ? Moi, je sais, car c’est moi les créer. Attention à vous, je pourrais aussi lâcher cette tornade juste sur votre maison, ce qui serait for dommage._
+*Avez-vous déjà demandé d’où vient la tempête ? Cette foudre qui tombe, ce vent fort, mais aussi cette averse ou ces sphères de foudre ? Moi, je sais, car c’est moi les créer. Attention à vous, je pourrais aussi lâcher cette tornade juste sur votre maison, ce qui serait fore dommage.*
 
-### Description :
+# Description :
 
-Tempête est un sort invoquant un certain environnement (de base, une tempête), puis, de pouvoir le manipuler afin de produire des effets dévastateurs (foudre, vents violents, tornades, averses…). Sans cet environnement, il devient plus difficile de créer ces effets.
+Tempête est un sort modifiant la météo afin de créer un environnement à l'avantage du lanceur.
+
+Cet environnement ajoute des effets passifs sur le champ de batailles (mouvements supplémentaires pour les alliés, malue de perception pour les adversaires...), ainsi qu'augmenter les effets des attaques plus directes (foudre, bourrasques...)
 
 ### Comment l’utiliser :
 
-Tout d’abord, le joueur doit invoquer une tempête (un tour complet). Pour cela, il doit dépenser un certain de point de malfaisance. Lors de la création, le joueur décide quels effets sont actifs durant la tempête Après s’être installé, divers effets s’appliquent (vents violents, éclairs…). Ensuite, le joueur peut décider de dépenser les points de tempêtes stockés dedans afin de produire divers effets.
+Tout d’abord, le joueur doit invoquer une tempête. Cela nécessite une petite action, et la tempête apparait au tour suivant. Il doit dépenser une quantité définie de points de malfaisance. (indiqué dans la table plus bas). La tempête arrive au niveau 1. Elle peut être augmentée plus tard en dépensant une petite action. De même, il peut utiliser une petite action pour étendre la durée la tempête. (Un reset quoi)
 
-|   |   |   |   |
-|---|---|---|---|
-||Vent|Foudre|Tornade|
-|Niveau 1|Créer un souffle modifiant le mouvement. **Modification vitesse** : bonus de +1 mouvements par **pt de malfaisance.** _Passif, à déclarer lors de la création._|Invoque un éclair qui s’abat sur un point précis. **Dégâts** : 5d4 (électrique).**Coût :** 1 pt de malfaisance**Portée** : 18m|Centrée sur une zone, il attire chaque créature. Aucun dégât.  **Portée** : 18m**Rayon d’effet:** 1m par **pt.**_Concentration._|
-|Niveau 2|Projette une claque violente de vent sur une ligne **Portée** : 18m**Dégâts** : 2d4 par **pt** (contondant) **Éjection :** 1m par pt.**Largeur** : 2m  <br>   <br>L'ennemi est projeté portée case.|Projette une tempête foudre continue sur une zone sur plusieurs tours. **Zone :**  3*3m. **Dégât : 1**d4 physique (électrique) par 1**pt.****Durée** : 2**pt** /tour|X (À trouver des idées)|
-|Version 3||||
+### Effets passifs
+Les effets passifs sont choisis au moment du lancement de la tempête.
 
-**En résumés**
+|          | Vent arrière                                                                                        | Pluie                                                                  | Brouillard                                    | ?                     |
+| -------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------- | --------------------- |
+| Niveau 1 | Créer un souffle modifiant le mouvement. <br><br>*Bonus de +2 athlétisme (et donc +2 de mobilité)*. | *Malus de -2 athlétisme pour les adversaires (et donc -2 de mobilité)* | *Malus de -2 perception pour les adversaires* | *Bonus de +2 armures* |
+| Niveau 2 | *Bonus de +4 athlétisme, et la distance de saut est quadruplé.*                                     | *Malus de -4 athlétisme pour les adversaires (et donc -4 de mobilité)* | *Malus de -4 perception pour les adversaires* | *Bonus de +4 armures* |
+| Niveau 3 |                                                                                                     |                                                                        |                                               |                       |
 
-|   |   |   |
-|---|---|---|
-|Niveau|Sorts|Effets secondaires/Capacités|
-|1|Tempête faible : vents forts, léger orage, se dissipe rapidement.|Points de malfaisance par tempête : 5|
-|2|Grande tempête : Vents très violent, grosse foudre, possibilité de petite tornade.    <br>Possibilité de faire des petits effets sans tempêtes.|Points de malfaisance par tempête : 15|
-|3|Enorme tempête : Bourrasque, Fatal-Foudre, tornade…   <br>Possibilité de faire plus d’effets sans tempêtes|Point de tempête : 50   <br>Max points de tempête par tour : 15   <br>Point de tempête sans tempête : 10|
+### Effets actifs
+
+Il est possible d'avoir un effet inférieur au niveau de tempête actuel si ce joueur le souhaite.
+
+|             | Eclair                                                                                                                  | Orage                                                                                                                                                                                          | Bourrasque                                                                                                                                                                                                                                                  |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Description | Invoque un éclair qui s’abat sur un point précis.<br>**Action:** Petite                                                 | Invique un nuage abbant continuellement des eclairs sur une zone.<br>Lors de l'invocation et au début du tour, inflie les dégât à l'ensemble des ennemis en dessous.<br>**Action:** Grande<br> | Projette une claque violente de vent sur une ligne.<br>Le joueur fait un jet (nb de dés indiqué sur le niveau). <br>Les adversaires ayant un score de resistance inférieur sont projeté, et subissent des dégâts en cas de collision.<br>**Action:** Grande |
+| Naturel     | **Dégâts** : 2d6 <br>**Coût :** 3 pt de malfaisance<br>**Portée** : 18m                                                 | X                                                                                                                                                                                              | **Projection**:1m (à terre) <br>**Nb d6:** 3<br>**Coût**:  3pts<br>**Largeur**:  3m<br>**Longueur**: 6m                                                                                                                                                     |
+| Niveau 1    | **Dégâts** : 3d6<br>**Coût :** 2pts <br>**Portée** : 18m                                                                | **Dégât**: 2d6<br>**Coût**: 3pts<br>**Zone:** 3\*3m<br>**Durée**: instantanée                                                                                                                  | **Projection**:3m (à terre) <br>**Nb d6:** 5<br>**Dégâts**:2d6<br>**Coût**: 2pts<br>**Largeur:**  3m<br>**Longueur:** 6m<br>                                                                                                                                |
+| Niveau 2    | **Dégâts** : 4d6<br>**Coût :** 2pts<br>**Portée** : 18m<br>L'ensemble des créature à 3m du point d'impact prennent 2d6. | **Dégât**: 3d6<br>**Coût**: 3pts<br>**Zone:** 4\*4m<br>**Durée**: 1 tour.                                                                                                                      | Ils sont projetés de 6m. Il subissent des dégâts s'ils rencontrent un obstacle.<br>**Projection**:6m (à terre)<br>**Nb d6:** 7<br>**Dégâts:** 3d6<br>**Coût**: 2pts<br>**Largeur:  5m**<br>**Longueur: 9m**<br>                                             |
+| Niveau 3    |                                                                                                                         |                                                                                                                                                                                                |                                                                                                                                                                                                                                                             |
+
+###  Tableau des coûts
+
+| Niveau du sort | Points de malfaisance <br>pour ce niveau | Nombre de niveaux <br>d'effets passifs | Durée   |
+| -------------- | ---------------------------------------- | -------------------------------------- | ------- |
+| 1              | 5                                        | 2                                      | 3 tours |
+| 2              | 5                                        | 4                                      | 5 tours |
+| 3              | 10                                       | 6                                      | 7 tours |
+# Exemples
+
+*Suez utilise une petite action pour appeler une nouvelle tempête. Il dépense 5 points de malfaisance. Comme effet passif, il choisit vent arrière (Niveau 1) et Pluie (Niveau 1), conférant à son équipe un avantage de mouvement. Il peut décider d'utiliser ses effets actifs, mais seulement les effets naturels seront appliqués. Il choisit d'utiliser sa grande action pour se déplacer
+
+*Le tour suivant, la tempête de Niveau 1 est en place et ses effets passifs activés. Néanmoins, comme Suez possède le sort de Tempête au Niveau 2, il décide d'utiliser sa petite action et dépenser 10 points de malfaisance pour améliorer la tempête actuelle au niveau supérieur. Il augmente le niveau de vent arrière, le passant au niveau 2, et décide d'ajouter l'effet du brouillard au niveau 1, gênant la perception des adversaires. Il utilise sa grande action pour lancer bourrasque au niveau de sa tempête, donc au niveau 1,  sur un groupe d'ennemis qui arrive vers lui. Sur les 5d6 qu'il lance, il obtient 3 réussites ce qui est suffisant pour éjecter de 3m la plupart des ennemis. Suez lance 2d6 de dégât, car les éjectés rencontrent un mur, ce qui fait 7.*
+
+*Le tour suivant, La tempête évolue au niveau 2, les effets passifs annoncés au tour d'avant s'appliquent. Il lance orage sur un groupe d'archers au loin, et lance 3d6 de dégâts, ce qui fait 13. Toutes créatures entrant dans la zone, ou ceux qui restent au prochain tour, reprendront 3d6 de dégâts. Il utilise sa petite action pour lancer un éclair contre le boss. Il le lance au niveau de tempête (2), mais comme il a un allié à son contact, il décide d'ignorer l'effet de zone autour du point d'impact. Après avoir dépensé 2 points de malfaisance, il lance 4d6, ce qui fait 14 dégâts.*
+# Notes
+**Effet du sort -> Modifier l'environnement autour à l'avantage du joueur**
+- Chaque effet coute un certain nombre.
+	- Augmentation de la vitesse
+		- Vol?
+		- Saut?
+	- Augmentation de résistance?
+		- Naturel? (feu, froid, foudre)
+	- Augmentation de vision?
+	- Modification de temperature
+	- augmentation des bonus d'attaques
+	- Ajouts de capacités à tous
+		- Eclairs
+		- Bourrasque
+	- 
+- Malus aux adversaires
+	- Baisse de vitesse/percepetion
+- Grelons
+	- dégâts/tour
+**Ajouts de capacités, mais elles ont un avantage durant une tempête, en plus du coût.**
+- Eclair
+- Nuage orageaux
+- Puit de grelon
+- Bourrasque
+- Tornade
+	- Attire les ennemis vers un point.
+- 
+- Séparer les effets passifs et actifs
+- Augmenter les plafonds
+- 1er appel : niveau 1, 2eme appel : niveau 2 ect....
+	- Met un tour à s'activer? -> Dépend du don.
+	- Chaque étape coute une petite action à la place?
+	- Mais apporte un bonus supplémentaire
+	- Possible de recharger la tempête avec une petite action
+- Compétence : Pouvoir upcast en prenant plus de temps.

@@ -1,1 +1,0 @@
-Decrease the speed of the victim
