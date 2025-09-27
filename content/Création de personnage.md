@@ -102,7 +102,7 @@ Et repartir entre ces neuf caractéristiques secondaires.
 Une fois l’ensemble des axes terminé, les joueurs vont déduire leur statistiques finales
 
 - PV : 30+5 * Endurance
-- Mobilité : (8+Mouvement) mètres
+- Mobilité : (8+Athlétisme) mètres
 - Réaction : 1
 - Armure : Endurance /2 (inférieur). (Chaque deux points en Endurance rapporte un point d’armure)
 - Malfaisance : 30
