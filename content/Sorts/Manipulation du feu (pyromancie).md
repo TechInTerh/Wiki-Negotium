@@ -1,11 +1,11 @@
 ---
 Created: 2024-10-05T17:47
 ---
-# Description :
+## Description :
 
 Sans doute le sort le plus connu. Son objectif ? Réduire en cendre l'adversaire. Une fois la flamme invoquée, son contrôleur peut en faire ce qu'il veut. Boule de feu, météore, brasier, lance-flamme... Tous les moyens sont bons pour qu'il ne reste rien de l'obstacle
 
-# Comment l’utiliser :
+## Comment l’utiliser :
 
 Quand ce joueur lance un sort, il peut choisir l’un des effets suivants, puis une de ses versions. Il va en dépenser son cout puis ses effets se verront apparaitre. S’il le souhaite, le joueur peut discuter avec le MJ pour ajouter un effet. (Hors séance si possible).
 
@@ -24,7 +24,7 @@ Si un sort demande un jet de confrontation (e.g. brûler, repousser, enchanter u
 | Niveau 2  <br>Coût : 3-5 pt | **Dégât :** 7d6  <br>**Portée :** 9-36m                    | **Dégât :** 4d6 / tour<br>**Portée :** 9-18m                                   | **Dégât :** 4d6 <br>**Portée :** 3-18m<br>**Largeur :** 4,5m  | **Dégâts :** 3d6 / tour<br>**Portée :** 3-6m             |
 | Niveau 3<br>Coût : 6-8 pt   | **Dégât :** 12d6  <br>**Portée :** 9-36m                   | **Dégât :** 9d6 / tour<br>**Portée :** 9-18m                                   | **Dégât :** 7d6 <br>**Portée :** 3-18m<br>**Largeur :** 4,5m  | **Dégâts :** 5d6 / tour<br>**Portée :** 3-6m             |
 
-### Exemples de sorts de dégâts
+### Exemples
 
 _**Titre :** description (Niveau du sort, couts, dégâts, portées)_
 ##### Niveau 1

@@ -1,11 +1,11 @@
-# ITS Theme
+# Tokyo Night
 
-- Theme: ITS Theme
-- Author: <a href="https://github.com/SlRvb" target="_blank" rel="noopener noreferrer">SlRvb</a>
+- Theme: Tokyo Night
+- Author: tcmmichaelb139
 
 ## Preview
 
-[Open live preview](https://quartz-themes.github.io/its-theme/)
+[Open live preview](https://quartz-themes.github.io/tokyo-night/)
 
 ## Usage
 
@@ -13,7 +13,7 @@
 
 ```yaml
 env:
-  THEME_NAME: its-theme
+  THEME_NAME: tokyo-night
 ```
 
 ```yaml
@@ -26,7 +26,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh its-theme
+./action.sh tokyo-night
 ```
 
 ### Manual install

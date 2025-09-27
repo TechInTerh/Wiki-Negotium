@@ -1,1 +1,1 @@
-Range 18m.
+Portée de 18m.

@@ -24,11 +24,8 @@ Chaque niveau de sort possède un plafond de malfaisance dépensable.
 
 Une fois l'âme acquise, il est possible de l'utiliser de plusieurs manières :
 
-- [[Corruption|Corrompre]] l'âme afin qu'elle rejoigne le joueur en tant qu'esclave.  
-  (Cf, chapitre sur la corruption). Le joueur à l’avantage pour tous jets de corruption.
-- Absorber l'âme afin d'avoir des capacités et caractéristiques supplémentaires temporaires.
-	- Les bonus et le temps dépendent du niveau du PNJ
-	- 
+- [[Corruption|Corrompre]] l'âme afin qu'elle rejoigne le joueur en tant qu'esclave. Le joueur à l’avantage pour tous jets de corruption.
+- Absorber l'âme afin d'avoir des capacités et caractéristiques supplémentaires temporaires.  Les bonus et le temps dépendent du niveau du PNJ
 - Replacer l'âme dans un corps humanoïde vide d'âme, pour le réanimer.
 
 
@@ -36,14 +33,13 @@ Ces actions ne dépensent par défaut aucun point de malfaisance.
 
 Le joueur ne peut stocker qu’un nombre limité d’âmes en simultané, en fonction de son niveau.
 
-|        |                        |                      |                                     |
-| ------ | ---------------------- | -------------------- | ----------------------------------- |
 | Niveau | Niveau d’âme stockable | Niveau max d’une âme | Nombre de dés maximal pour absorber |
+| ------ | ---------------------- | -------------------- | ----------------------------------- |
 | 1      | 5                      | 2                    | 5                                   |
 | 2      | 15                     | 3                    | 10                                  |
 | 3      | 50                     | 4                    | 15                                  |
 
-# Notes
+## Notes
 - Use the HP to absorb the soul => Take a large action to try to absorb the soul. Roll nd6 dices, if the total  inferior or equal to the ennemy health, you aborb it.
 - Impose a curse on an ennemy, and if he dies, you absorb the soul.
 - In the futur, possible to use a reaction to absorb a soul.
