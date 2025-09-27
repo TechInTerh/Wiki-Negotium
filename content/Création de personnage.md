@@ -84,7 +84,7 @@ Pour les caractéristiques secondaires, choisir entre
 - 1,1,2,2,2,3,3,3,4
 - 1,2,2,2,2,3,3,3,3
 
-Et repartir entre ces neuf caractéristiques secondaires.
+puis les répartir entre ces neuf caractéristiques secondaires.
 
 - Contact (Pouvoir toucher et esquiver les attaques au contact)
 - Visée (Pouvoir toucher et esquiver les attaques à distances)
@@ -99,7 +99,7 @@ Et repartir entre ces neuf caractéristiques secondaires.
 
 ## Finalisation
 
-Une fois l’ensemble des axes terminé, les joueurs vont déduire leur statistiques finales
+Une fois l’ensemble des axes terminé, les joueurs vont déduire leurs statistiques finales.
 
 - PV : 30+5 * Endurance
 - Mobilité : (8+Athlétisme) mètres
