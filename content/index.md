@@ -35,6 +35,7 @@ Explications des [[Combat]].
 ## Versions
 
 #### 0.1.1 
+- Retraits de fichiers d'armes et armures. (Je les metraits en fichier séparé plus tard)
 - Corrections de typos
 - Rectification pour mouvements/mobilité/athlétisme
 	- Mouvements : nb de cases/mètre pour bouger
