@@ -1,5 +1,5 @@
 ---
-Owner: VVictor Litoux
+Owner: Tech_in_Terh
 ---
 Ce jeu se joue avec des d6. Pour chaque jet, le joueur va lancer un nombre de d6 égale à la caractéristique principale + la sous-caractéristique. Ensuite, le joueur va regarder le nombre de dés au-dessus de 4, et cela va correspondre à son nombre de réussites.  
 S'il est au-dessus du seuil annoncé par le MJ, l’action est considérée comme un succès.

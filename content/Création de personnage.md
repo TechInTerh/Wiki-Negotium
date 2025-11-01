@@ -1,5 +1,5 @@
 ---
-Owner: VVictor Litoux
+Owner: Tech_in_Terh
 ---
 La création de perso se fait en 3 étapes : Le choix du sort, le choix d’un focaliseur de magie appelée Don, et les caractéristiques de départ. Chaque étape est un axe qui va définir votre personnage et comment il va interagir avec le monde.
 
@@ -90,7 +90,7 @@ puis les répartir entre ces neuf caractéristiques secondaires.
 - Visée (Pouvoir toucher et esquiver les attaques à distances)
 - Endurance (Encaisser les dégâts et attaques)
 - Discrétion (Se cacher physiquement et émotionnellement)
-- Mouvement (Athlétisme et courir)
+- Athlétisme (Athlétisme et courir)
 - Intimidation (Effrayer, remplir de peur)
 - Charme (Séduire, plaire)
 - Perception (Observer, capter et trouver des informations)
@@ -102,7 +102,7 @@ puis les répartir entre ces neuf caractéristiques secondaires.
 Une fois l’ensemble des axes terminé, les joueurs vont déduire leurs statistiques finales.
 
 - PV : 30+5 * Endurance
-- Mobilité : (8+Athlétisme) mètres
+- Mobilité : (10+Athlétisme) mètres
 - Réaction : 1
 - Armure : Endurance /2 (inférieur). (Chaque deux points en Endurance rapporte un point d’armure)
 - Malfaisance : 30

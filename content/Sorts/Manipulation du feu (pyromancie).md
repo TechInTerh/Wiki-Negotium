@@ -20,8 +20,8 @@ Si un sort demande un jet de confrontation (e.g. brûler, repousser, enchanter u
 |                             |                                                            |                                                                                |                                                               |                                                          |
 | --------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------- | -------------------------------------------------------- |
 |                             | Cible unique/petite zone, éphémère. (Rayon, point, boule…) | Cible unique/Petite zone, prolongée. (Flamme, aura, chauffer de l’équipement…) | Grande Zone/plusieurs, cibles éphémères (Souffle, explosion…) | Grande Zone/plusieurs cibles, prolongées. (Mur, sphère…) |
-| Niveau 1  <br>Coût : 1-2 pt | **Dégât :** 3d6  <br>**Portée :** 9-18m                    | **Dégât :** 2d6  / tour<br>**Portée : 3-**9m                                   | **Dégâts :** 2d6 <br>**Portée :** 3-9m.                       | X                                                        |
-| Niveau 2  <br>Coût : 3-5 pt | **Dégât :** 7d6  <br>**Portée :** 9-36m                    | **Dégât :** 4d6 / tour<br>**Portée :** 9-18m                                   | **Dégât :** 4d6 <br>**Portée :** 3-18m<br>**Largeur :** 4,5m  | **Dégâts :** 3d6 / tour<br>**Portée :** 3-6m             |
+| Niveau 1  <br>Coût : 1-4 pt | **Dégât :** 3d6  <br>**Portée :** 9-18m                    | **Dégât :** 2d6  / tour<br>**Portée : 3-**9m                                   | **Dégâts :** 2d6 <br>**Portée :** 3-9m.                       | X                                                        |
+| Niveau 2  <br>Coût : -5 pt  | **Dégât :** 7d6  <br>**Portée :** 9-36m                    | **Dégât :** 4d6 / tour<br>**Portée :** 9-18m                                   | **Dégât :** 4d6 <br>**Portée :** 3-18m<br>**Largeur :** 4,5m  | **Dégâts :** 3d6 / tour<br>**Portée :** 3-6m             |
 | Niveau 3<br>Coût : 6-8 pt   | **Dégât :** 12d6  <br>**Portée :** 9-36m                   | **Dégât :** 9d6 / tour<br>**Portée :** 9-18m                                   | **Dégât :** 7d6 <br>**Portée :** 3-18m<br>**Largeur :** 4,5m  | **Dégâts :** 5d6 / tour<br>**Portée :** 3-6m             |
 
 ### Exemples
@@ -63,11 +63,3 @@ _**Propulsion :**_ **L**e lanceur utilise des flammes pour se propulser à une f
 |1|Pyrotechnie de niveau moyen.|Accès aux version 1.|5|
 |2|Pyrotechnie de haut niveau.|Accès aux version 2 :|10|
 |3|Pyrotechnie de niveau divin.|Accès aux version 3 :|15|
-
-### Future idées (Fenix)
-
-- Chauffage de divers objets (casseroles)
-- Artificier et création d’objets (golem)
-- Invocation d’esprits de feu?
-- Massage?
--

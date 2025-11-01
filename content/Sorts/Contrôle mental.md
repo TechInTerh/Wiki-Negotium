@@ -15,7 +15,7 @@ Comment l’utiliser :
 
 Au moment où le joueur lance ce sort, il choisit tout d'abord une personne. Il infiltre donc son esprit.
 
-Si le personnage possède de la résistance mentale, il y a un jet d'opposition concentration (du joueur) et résistance mentale (du personnage).
+Si le personnage possède de la résistance mental, il y a un jet d'opposition concentration (du joueur) et résistance mental (du personnage).
 
 En cas de réussite du joueur, ce dernier à accès à son esprit. Il peut donc faire, sous concentration, ce qu'il veut du personnage.
 
@@ -34,5 +34,5 @@ Tant qu’il contrôle au moins un autre personnage, le joueur ne peut pas agir,
 |---|---|---|
 |Niveau|Sorts|Effets secondaires/Capacités|
 |1|Reflexes imposées.   <br>Possibilité de converser avec une personne consentante.    <br>Possibilité d’influence forte sous concentration.|Distance d’effet : 10m. ~~Difficulté pour résister : 5. (si RM)~~   <br>Personne sous contrôle (total) max : 0   <br>Personne sous contrôle (partiel) max : 1|
-|2|Conversation mentale avec n’importe quelle identité.    <br>Possibilité de créer un réseau mental de 4 personnes max (avec consentement).   <br>Pas besoin de consentement, pour la Conversation. Contrôle total sous Concentration.|Distance d’effet : 25 m. ~~Difficulté pour résister : 12. (si RM)~~   <br>Personne sous contrôle (total) max : 1   <br>Personne sous contrôle (partiel) max : 3|
+|2|Conversation mental avec n’importe quelle identité.    <br>Possibilité de créer un réseau mental de 4 personnes max (avec consentement).   <br>Pas besoin de consentement, pour la Conversation. Contrôle total sous Concentration.|Distance d’effet : 25 m. ~~Difficulté pour résister : 12. (si RM)~~   <br>Personne sous contrôle (total) max : 1   <br>Personne sous contrôle (partiel) max : 3|
 |3|Contrôle total sous effort (3 personnes max). Possibilité d’influencer massivement les personnes d’un grand groupe (~10)   <br>Télépathie extrême.|Distance d’effet : 100 m. ~~Difficulté pour résister : 20. (si RM)~~   <br>Personne sous contrôle (total) max : 3   <br>Personne sous contrôle (partiel) max : 10|

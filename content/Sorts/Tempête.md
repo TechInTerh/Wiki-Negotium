@@ -48,38 +48,4 @@ Il est possible d'avoir un effet inférieur au niveau de tempête actuel si ce j
 *Le tour suivant, la tempête de Niveau 1 est en place et ses effets passifs activés. Néanmoins, comme Suez possède le sort de Tempête au Niveau 2, il décide d'utiliser sa petite action et dépenser 10 points de malfaisance pour améliorer la tempête actuelle au niveau supérieur. Il augmente le niveau de vent arrière, le passant au niveau 2, et décide d'ajouter l'effet du brouillard au niveau 1, gênant la perception des adversaires. Il utilise sa grande action pour lancer bourrasque au niveau de sa tempête, donc au niveau 1,  sur un groupe d'ennemis qui arrive vers lui. Sur les 5d6 qu'il lance, il obtient 3 réussites ce qui est suffisant pour éjecter de 3m la plupart des ennemis. Suez lance 2d6 de dégât, car les éjectés rencontrent un mur, ce qui fait 7.*
 
 *Le tour suivant, La tempête évolue au niveau 2, les effets passifs annoncés au tour d'avant s'appliquent. Il lance orage sur un groupe d'archers au loin, et lance 3d6 de dégâts, ce qui fait 13. Toutes créatures entrant dans la zone, ou ceux qui restent au prochain tour, reprendront 3d6 de dégâts. Il utilise sa petite action pour lancer un éclair contre le boss. Il le lance au niveau de tempête (2), mais comme il a un allié à son contact, il décide d'ignorer l'effet de zone autour du point d'impact. Après avoir dépensé 2 points de malfaisance, il lance 4d6, ce qui fait 14 dégâts.*
-# Notes
-**Effet du sort -> Modifier l'environnement autour à l'avantage du joueur**
-- Chaque effet coute un certain nombre.
-	- Augmentation de la vitesse
-		- Vol?
-		- Saut?
-	- Augmentation de résistance?
-		- Naturel? (feu, froid, foudre)
-	- Augmentation de vision?
-	- Modification de temperature
-	- augmentation des bonus d'attaques
-	- Ajouts de capacités à tous
-		- Eclairs
-		- Bourrasque
-	- 
-- Malus aux adversaires
-	- Baisse de vitesse/percepetion
-- Grelons
-	- dégâts/tour
-**Ajouts de capacités, mais elles ont un avantage durant une tempête, en plus du coût.**
-- Eclair
-- Nuage orageaux
-- Puit de grelon
-- Bourrasque
-- Tornade
-	- Attire les ennemis vers un point.
-- 
-- Séparer les effets passifs et actifs
-- Augmenter les plafonds
-- 1er appel : niveau 1, 2eme appel : niveau 2 ect....
-	- Met un tour à s'activer? -> Dépend du don.
-	- Chaque étape coute une petite action à la place?
-	- Mais apporte un bonus supplémentaire
-	- Possible de recharger la tempête avec une petite action
-- Compétence : Pouvoir upcast en prenant plus de temps.
+
