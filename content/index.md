@@ -35,7 +35,7 @@ Explications des [[Combat]].
 - Correction de divers typos
 - Ajustements mineurs de la page d'accueil.
 
-#### 0.1.1 
+#### 0.1.1 (01/11/2025)
 - Retraits de fichiers d'armes et armures. (Je les mettrai en fichier séparé plus tard)
 - Corrections de typos
 - Rectification pour mouvements/mobilité/athlétisme
@@ -46,7 +46,7 @@ Explications des [[Combat]].
 - [[Combat#Consommation de malfaisances]] : possibilité de relancer qu'une seule fois le dé.
 - Création des zombies [[Appel aux morts (Necromancie)]].
 
-#### 0.1 First version
+#### 0.1 First version (28/09/2025)
 - Index
 - Système
 - Les cinq premiers Sorts
