@@ -16,9 +16,7 @@ Ce monde est un monde utopique. Le bien est partout, personne n’a faim, les ro
 Negotium est un JDR où les joueurs contrôlent des personnes ayant découvert une ancienne salle de rituel, permettant d’invoquer d’anciens dieux. Ces dieux leur donnent accès à d’immenses sortilèges, qu’ils doivent utiliser pour faire le mal en ce monde.
 
 
-## Organisation
-
-### Règles
+## Règles
 Le système pour pouvoir jouer est [[Systèmes de jeu|ici]].
 
 Créer un personnage se fera [[Création de personnage|Ici]]
@@ -28,21 +26,24 @@ Les sorts [[Absorption d'âmes (Animamancie)]], [[Appel aux morts (Necromancie)]
 Les sorts [[Contrôle mental]],[[Incantomancie]], [[Illusion]],[[Férocité de la nature]], [[Zone d’ombre]],[[Contagion]] et [[Corruption Animaliste]] seront réécrits, puis retestés plus tard. 
 Vous pouvez y jeter un coup d'œil si vous le souhaitez.
 
-### Combat
-
 Explications des [[Combat]].
 
 ## Versions
 
+#### 0.1.2 (10/11/2025)
+- Mise à jour de [[Appel aux morts (Necromancie)]]. Développement des PV de l'escouade et ajustements de chiffres.
+- Correction de divers typos
+- Ajustements mineurs de la page d'accueil.
+
 #### 0.1.1 
-- Retraits de fichiers d'armes et armures. (Je les metraits en fichier séparé plus tard)
+- Retraits de fichiers d'armes et armures. (Je les mettrai en fichier séparé plus tard)
 - Corrections de typos
 - Rectification pour mouvements/mobilité/athlétisme
 	- Mouvements : nb de cases/mètre pour bouger
 	- Athlétisme : caractéristique secondaire
-- Modifé nom, désormais c'est Tech_in_Terh
-- [[Création de personnage]] changement de la formule pour le mouvement 
-- [[Combat#Consommation de malfaisances]] possibilité de relancer qu'une seule fois le dé.
+- Modifié nom, désormais, c'est Tech_in_Terh
+- [[Création de personnage]]: changement de la formule pour le mouvement 
+- [[Combat#Consommation de malfaisances]] : possibilité de relancer qu'une seule fois le dé.
 - Création des zombies [[Appel aux morts (Necromancie)]].
 
 #### 0.1 First version
