@@ -18,7 +18,7 @@ Negotium est un JDR où les joueurs contrôlent des personnes ayant découvert u
 
 ## Organisation
 
-### Règle
+### Règles
 Le système pour pouvoir jouer est [[Systèmes de jeu|ici]].
 
 Créer un personnage se fera [[Création de personnage|Ici]]
