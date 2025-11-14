@@ -29,8 +29,9 @@ Vous pouvez y jeter un coup d'œil si vous le souhaitez.
 Explications des [[Combat]].
 
 ## Versions
-#### 0.1.3
+#### 0.1.3 (14/11/2025)
 - Augmentations des dégâts pour les armes de contact dans [[Combat]]
+- Ajout Niv 3 pour [[Tempête]]
 
 #### 0.1.2 (10/11/2025)
 - Mise à jour de [[Appel aux morts (Necromancie)]]. Développement des PV de l'escouade et ajustements de chiffres.
