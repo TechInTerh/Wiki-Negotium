@@ -64,9 +64,9 @@ tout en respectant les limites prévues par le niveau du zombie.
 | Réactions                           | 0            | 1<br>Esquive:3d6 | 2<br>Esquive:6d6 | 3<br>Esquive:9d6  | 4<br>Esquive:12d6 | 5<br>Esquive:15d6       |
 
 #### Discrétion
-- Tapageur : se voit immédiatement et de loin, décomposition et odeur poussée.
-- Indiscret : Besoin de se rapprocher pour observer le problème. Silhouettes humaines.
-- Réservé : après quelques secondes de réflexion, apparence humanoïde.
+- Tapageur : se voit immédiatement et de loin, décomposition et odeur poussée. Pousse des cris.
+- Indiscret : Besoin de se rapprocher pour observer le problème. Silhouettes humaines. Grogne.
+- Réservé : après quelques secondes de réflexion, apparence humanoïde. Marmonne.
 - Prudent : Après quelques dizaines de secondes d'analyse, apparence proche du corps original.
 - Furtif : Capable d'imiter des mouvements humains basiques (Marcher droit, manipuler des objets). 
 - Imperceptible : A une attitude complétement humaine.

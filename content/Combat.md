@@ -67,16 +67,16 @@ La plupart des combattants possèdent des moyens pour se protéger des coups (Ar
 Utiliser des armes augmente les chances des joueurs de toucher, et plus de permettre plus de dégâts.
 Attaquer avec une arme requiert un jet de corps+(Contact ou Distance) si l'adversaire tente d'esquiver.
 
-|      file name       | Bonus pour toucher | Dégâts | Capacités                                            | Portée       | Prise en main  |                                   notes                                   |
-| -------------------- | ------------------ | ------ | ---------------------------------------------------- | ------------ | -------------- | ------------------------------------------------------------------------- |
-|         Arc          | 0                  | 3d6    | [[Entraver (Hinder)]]                                | [[Distance]] | [[Two-handed]] |       [[Rechargement (Reload)]], [[Attaque rapide (Quick attack)]]        |
-|       Arbalète       | 0                  | 4d6    | [[Entraver (Hinder)]]                                | [[Distance]] | [[Two-handed]] | [[Rechargement lent (Slow reloading)]], [[Attaque rapide (Quick attack)]] |
-|     Epée courte      | 2d6                | 2d6    | [[Parrer (Parry)]]                                   | [[Contact]]  | [[One-handed]] |                                                                           |
-|     Epée longue      | 2d6                | 3d6    | [[Fendre (Cleaves)]], [[Parrer (Parry)]]             | [[Contact]]  | [[Two-handed]] |                                                                           |
-| Hache à une une main | 0                  | 3d6    | [[Frappe (Thwak)]]                                   | [[Contact]]  | [[One-handed]] |                                                                           |
-|    Hache à mains     | 0                  | 4d6    | [[Fendre (Cleaves)]], [[Frappe (Thwak)]]             | [[Contact]]  | [[Two-handed]] |                                                                           |
-|    Marteau léger     | -2d6               | 4d6    | [[Smash]], [[Pousser (Shove)]]                       | [[Contact]]  | [[One-handed]] |                                                                           |
-|  Marteau de guerre   | -2d6               | 5d6    | [[Fendre (Cleaves)]], [[Pousser (Shove)]], [[Smash]] | [[Contact]]  | [[Two-handed]] |                                                                           |
+| file name          | Bonus pour toucher | Dégâts | Capacités                                            | Portée       | Prise en main  |                                   notes                                   |
+| ------------------ | ------------------ | ------ | ---------------------------------------------------- | ------------ | -------------- | ------------------------------------------------------------------------- |
+| Arc                | 0                  | 2d6    | [[Entraver (Hinder)]]                                | [[Distance]] | [[Two-handed]] |       [[Rechargement (Reload)]], [[Attaque rapide (Quick attack)]]        |
+| Arbalète           | 0                  | 3d6    | [[Entraver (Hinder)]]                                | [[Distance]] | [[Two-handed]] | [[Rechargement lent (Slow reloading)]], [[Attaque rapide (Quick attack)]] |
+| Epée courte        | 2d6                | 3d6    | [[Parrer (Parry)]]                                   | [[Contact]]  | [[One-handed]] |                                                                           |
+| Epée longue        | 2d6                | 5d6    | [[Fendre (Cleaves)]], [[Parrer (Parry)]]             | [[Contact]]  | [[Two-handed]] |                                                                           |
+| Hache à une main   | 0                  | 4d6    | [[Frappe (Thwak)]]                                   | [[Contact]]  | [[One-handed]] |                                                                           |
+| Hache à deux mains | 0                  | 6d6    | [[Fendre (Cleaves)]], [[Frappe (Thwak)]]             | [[Contact]]  | [[Two-handed]] |                                                                           |
+| Marteau léger      | -2d6               | 5d6    | [[Smash]], [[Pousser (Shove)]]                       | [[Contact]]  | [[One-handed]] |                                                                           |
+| Marteau de guerre  | -2d6               | 7d6    | [[Fendre (Cleaves)]], [[Pousser (Shove)]], [[Smash]] | [[Contact]]  | [[Two-handed]] |                                                                           |
 
 ### Armures
 
