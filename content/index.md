@@ -29,6 +29,11 @@ Vous pouvez y jeter un coup d'œil si vous le souhaitez.
 Explications des [[Combat]].
 
 ## Versions
+#### 0.1.4 (29/11/2025)
+- Mis à jour des stats dans [[Appel aux morts (Necromancie)]].
+- Reformatage des tableaux de [[Tempête]], et mis à jour des stats.
+- Mis à jour de [[Mutation]], ajout de mutations et tableau de temps par mutation.
+
 #### 0.1.3 (14/11/2025)
 - Augmentations des dégâts pour les armes de contact dans [[Combat]]
 - Ajout Niv 3 pour [[Tempête]]
