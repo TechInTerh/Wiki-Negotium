@@ -21,26 +21,34 @@ Le système pour pouvoir jouer est [[Systèmes de jeu|ici]].
 
 Créer un personnage se fera [[Création de personnage|Ici]]
 
+Explications des [[Combat|Combats]]
+
+
 Les sorts [[Absorption d'âmes (Animamancie)]], [[Appel aux morts (Necromancie)]], [[Manipulation du feu (pyromancie)]], [[Tempête]] et [[Mutation]] sont écrits et en cours de test.
 
 Les sorts [[Contrôle mental]],[[Incantomancie]], [[Illusion]],[[Férocité de la nature]], [[Zone d’ombre]],[[Contagion]] et [[Corruption Animaliste]] seront réécrits, puis retestés plus tard. 
 Vous pouvez y jeter un coup d'œil si vous le souhaitez.
 
-Explications des [[Combat]].
-
 ## Versions
+
+#### 0.1.5 (05/12/2025)
+- Restructuration de [[Mutation]], description avec un tableau pour chaque mutation.
+- Corrections de typos.
+- Le joueur a accès à deux réactions au lieu d'une dès la création de son personnage.
+- Ajout du niveau 4 pour passif dans [[Tempête]].
+
 #### 0.1.4 (29/11/2025)
 - Mis à jour des stats dans [[Appel aux morts (Necromancie)]].
 - Reformatage des tableaux de [[Tempête]], et mis à jour des stats.
 - Mis à jour de [[Mutation]], ajout de mutations et tableau de temps par mutation.
 
 #### 0.1.3 (14/11/2025)
-- Augmentations des dégâts pour les armes de contact dans [[Combat]]
-- Ajout Niv 3 pour [[Tempête]]
+- Augmentations des dégâts pour les armes de contact dans [[Combat]].
+- Ajout Niv 3 pour [[Tempête]].
 
 #### 0.1.2 (10/11/2025)
 - Mise à jour de [[Appel aux morts (Necromancie)]]. Développement des PV de l'escouade et ajustements de chiffres.
-- Correction de divers typos
+- Correction de divers typos.
 - Ajustements mineurs de la page d'accueil.
 
 #### 0.1.1 (01/11/2025)
@@ -50,14 +58,14 @@ Explications des [[Combat]].
 	- Mouvements : nb de cases/mètre pour bouger
 	- Athlétisme : caractéristique secondaire
 - Modifié nom, désormais, c'est Tech_in_Terh
-- [[Création de personnage]]: changement de la formule pour le mouvement 
+- [[Création de personnage]]: changement de la formule pour le mouvement. 
 - [[Combat#Consommation de malfaisances]] : possibilité de relancer qu'une seule fois le dé.
 - Création des zombies [[Appel aux morts (Necromancie)]].
 
 #### 0.1 First version (28/09/2025)
 - Index
 - Système
-- Les cinq premiers Sorts
-- Armes et armures de bases
+- Les cinq premiers sorts
+- Armes et armures de base
 - Création de personnages
 - Explication des combats.
