@@ -9,18 +9,18 @@ _Les autres voient une pratique interdite, moi je vois un cycle, comme quoi la m
 Ce sort permet de relever les morts sous forme de zombies. *À écrire + tard pour faire zolie
 
 ### Réanimer des zombies 
-Grande action, réanime une série de corps. Ensuite attribue à une escouade (soit en créant, soit en assignant à une existante à proximité). Chaque créature doit être identique.
+Grande action, réanime une série de corps situés à 3m de distance du lanceur. Ensuite attribue à une escouade (soit en créant, soit en assignant à une existante à proximité). Chaque créature doit être identique.
 
 ### Fonctionnement d'une escouade
-- Chaque membre d'une escouade doit être à proximité de l'autre (avec une distance maximale de 1.5m pour commencer).
+- Chaque membre d'une escouade doit être à proximité de l'autre (avec une distance maximale de 2m pour commencer).
 - Nombre d'escouades limité au nombre de niveaux, ainsi que le nombre de zombies par escouade.
 - Si un zombie s'éloigne de son escouade, le joueur peut décider de lui créer une autre escouade (s'il n'a pas déjà atteint son max). S'il ne le fait pas, le zombie reste inerte et immobile jusqu'à ce qu'une escouade avec de la place s'approche.
 - Lors de la création de l'escouade, on calcule le total de PV par le nb de zombies par les pv/zombie. Les pv sont communs à la horde.
 
-#### Dégâts subits
+#### Dégâts subis
 
 - Les dégâts à la horde et l'armure sont multipliés par le nombre de zombies touché.
-- On soustrait le PV suffisant à la horde (moins l'armure du zombie). pour chaque multiple de PV enlevé, un des zombies touchés meurt (choisi par celui qui a fait les dégâts)
+- On soustrait le PV suffisant à la horde (moins l'armure du zombie). Pour chaque multiple de PV enlevé, un des zombies touchés meurt (choisi par celui qui a fait les dégâts)
 
 *Exemple 1. Un paladin inflige 15 dégâts à une escouade de trois zombies avec 20pv et deux d'armures chacun. L'escouade a déjà subi 17 dégâts auparavant. 
 Elle prend donc juste que trois dégâts et celui qui s'est pris l'attaque meurt, même si celui touché précédemment n'est pas le même.*

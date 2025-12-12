@@ -27,7 +27,7 @@ Les joueurs vont s’infiltrer dans les hautes sphères de la société, usant d
 Les joueurs vont choisir un sort parmi 12. Le MJ Leur fera une description sommaire, présentant les avantages et inconvénient de chacun.
 
 - [[Appel aux morts (Necromancie)]] : Relever les morts de leur tombe sous forme de cadavres obéissants
-- [[Absorption d'âmes (Animamancie)]] : Absorber les âmes pour les corrompre, et le redistribuer dans d’autres corps ou objets.
+- [[Extraction d'âmes (Animamancie)]] : Absorber les âmes pour les corrompre, et le redistribuer dans d’autres corps ou objets.
 - [[Contagion]] : Créer des maladies et poison.
 
 - [[Mutation]] : Contrôler la biologie de son corps pour évoluer en quelque chose de supérieur

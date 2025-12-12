@@ -67,10 +67,10 @@ La plupart des combattants possèdent des moyens pour se protéger des coups (Ar
 Utiliser des armes augmente les chances des joueurs de toucher, et plus de permettre plus de dégâts.
 Attaquer avec une arme requiert un jet de corps+(Contact ou Distance) si l'adversaire tente d'esquiver.
 
-| file name          | Bonus pour toucher | Dégâts | Capacités                                            | Portée       | Prise en main  |                                   notes                                   |
+| file name          | Bonus pour toucher | Dégâts | Capacités (petite action)                            | Portée       | Prise en main  | notes                                                                     |
 | ------------------ | ------------------ | ------ | ---------------------------------------------------- | ------------ | -------------- | ------------------------------------------------------------------------- |
-| Arc                | 0                  | 2d6    | [[Entraver (Hinder)]]                                | [[Distance]] | [[Two-handed]] |       [[Rechargement (Reload)]], [[Attaque rapide (Quick attack)]]        |
-| Arbalète           | 0                  | 3d6    | [[Entraver (Hinder)]]                                | [[Distance]] | [[Two-handed]] | [[Rechargement lent (Slow reloading)]], [[Attaque rapide (Quick attack)]] |
+| Arc                | 0                  | 2d6    |                                                      | [[Distance]] | [[Two-handed]] |                                                                           |
+| Arbalète           | 0                  | 4d6    | [[Entraver (Hinder)]]                                | [[Distance]] | [[Two-handed]] | [[Rechargement lent (Slow reloading)]], [[Attaque rapide (Quick attack)]] |
 | Epée courte        | 2d6                | 3d6    | [[Parrer (Parry)]]                                   | [[Contact]]  | [[One-handed]] |                                                                           |
 | Epée longue        | 2d6                | 5d6    | [[Fendre (Cleaves)]], [[Parrer (Parry)]]             | [[Contact]]  | [[Two-handed]] |                                                                           |
 | Hache à une main   | 0                  | 4d6    | [[Frappe (Thwak)]]                                   | [[Contact]]  | [[One-handed]] |                                                                           |
