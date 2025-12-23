@@ -30,6 +30,9 @@ Vous pouvez y jeter un coup d'œil si vous le souhaitez.
 
 ## Versions
 
+#### 0.1.7 (23/12/2025)
+- Mis à jour de [[Manipulation du feu (pyromancie)]], permettant de customiser les effets.
+
 #### 0.1.6 (12/12/2025)
 - Update de [[Extraction d'âmes (Animamancie)]]
 - Début de mis à jour de [[Manipulation du feu (pyromancie)]], mais a besoin de plus de travail.
