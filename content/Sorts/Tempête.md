@@ -1,6 +1,3 @@
----
-Created: 2024-10-05T17:15
----
 *Avez-vous déjà demandé d’où vient la tempête ? Cette foudre qui tombe, ce vent fort, mais aussi cette averse ou ces sphères de foudre ? 
 Moi, je sais, car c’est moi les créer. Attention à vous, je pourrais aussi lâcher cette tornade juste sur votre maison, ce qui serait for dommage.*
 

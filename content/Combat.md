@@ -43,12 +43,13 @@ De même, le joueur peut reporter sa petite action avec un point de réaction. D
 
 ### Réactions
 
-Durant le tour des adversaires, les personnages peuvent réagir à une action en dépensant une réaction. Il peut s’agir d’une grande/petite action si jamais le joueur s’y est préparé.  
+Les personnages peuvent réagir à une action en dépensant une réaction. Il peut s’agir d’une grande/petite action si jamais le joueur s’y est préparé.  
 Voici les réactions les plus communes :
 
 - **Esquiver.** Le personnage tente d’esquiver un coup qu’il voit. L’attaquant et la cible font chacun un jet de mêlée/visée (en fonction du type d’attaque). Si jamais l’attaquant a un score supérieur ou égal à la cible, celle-ci touche.
 - **Attaque d’opportunité.** Si jamais un personnage s’éloigne d’un autre personnage avec une arme de contact, ce dernier peut tenter de faire un jet d’attaque gratuitement.
 - **Lever son bouclier.** Si le personnage porte un bouclier, il peut lever son bouclier pour ajouter son bonus d’armure à la prochaine attaque.
+- **Faire un pas de côté** : Uniquement durant le tour du personnage et une fois par tour, il peut utiliser une réaction pour se déplacer de 3m. 
 
 Les personnages regagnent leur grande, petite et leurs réactions au début de leur tour.
 
@@ -67,10 +68,10 @@ La plupart des combattants possèdent des moyens pour se protéger des coups (Ar
 Utiliser des armes augmente les chances des joueurs de toucher, et plus de permettre plus de dégâts.
 Attaquer avec une arme requiert un jet de corps+(Contact ou Distance) si l'adversaire tente d'esquiver.
 
-| file name          | Bonus pour toucher | Dégâts | Capacités                                            | Portée       | Prise en main  |                                   notes                                   |
+| file name          | Bonus pour toucher | Dégâts | Capacités (petite action)                            | Portée       | Prise en main  | notes                                                                     |
 | ------------------ | ------------------ | ------ | ---------------------------------------------------- | ------------ | -------------- | ------------------------------------------------------------------------- |
-| Arc                | 0                  | 2d6    | [[Entraver (Hinder)]]                                | [[Distance]] | [[Two-handed]] |       [[Rechargement (Reload)]], [[Attaque rapide (Quick attack)]]        |
-| Arbalète           | 0                  | 3d6    | [[Entraver (Hinder)]]                                | [[Distance]] | [[Two-handed]] | [[Rechargement lent (Slow reloading)]], [[Attaque rapide (Quick attack)]] |
+| Arc                | 0                  | 2d6    |                                                      | [[Distance]] | [[Two-handed]] |                                                                           |
+| Arbalète           | 0                  | 4d6    | [[Entraver (Hinder)]]                                | [[Distance]] | [[Two-handed]] | [[Rechargement lent (Slow reloading)]], [[Attaque rapide (Quick attack)]] |
 | Epée courte        | 2d6                | 3d6    | [[Parrer (Parry)]]                                   | [[Contact]]  | [[One-handed]] |                                                                           |
 | Epée longue        | 2d6                | 5d6    | [[Fendre (Cleaves)]], [[Parrer (Parry)]]             | [[Contact]]  | [[Two-handed]] |                                                                           |
 | Hache à une main   | 0                  | 4d6    | [[Frappe (Thwak)]]                                   | [[Contact]]  | [[One-handed]] |                                                                           |
@@ -89,7 +90,7 @@ Chaque armure possède un nombre de points d’armure. Chaque point d’armure p
 
 ### Boucliers
 
-Les boucliers sont utiles aux joueurs lorsqu’ils veulent encaisser un coup plutôt que tenter de l’esquiver.
+Les boucliers permettent 
 
 Quand un joueur voit un coup, arriver sur son personnage ou un allié à son contact, il peut lever son bouclier pour réduire les dégâts en augmentant le nombre total de points d’armures.
 Cela coute une réaction.
@@ -107,7 +108,7 @@ Lors d’un combat, les joueurs peuvent utiliser de la [[Malfaisance]] pour augm
 - 1 point pour se soigner 1d6. Nécessite une petite action (max 3d6 par tour).
 - 3 points pour avoir une réaction supplémentaire.
 - 5 points pour avoir une petite action supplémentaire ou convertir une petite action en grande action.
-- 10 points pour avoir une grande action supplémentaire.\*
+- 10 points pour avoir une grande action supplémentaire.
 
 \*Vous ne pouvez activer cette capacité qu'une seule fois par tour.
 

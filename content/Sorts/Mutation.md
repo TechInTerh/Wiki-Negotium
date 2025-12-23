@@ -7,7 +7,7 @@ Mutation est un sort permettant de modifier l’anatomie du lanceur ou de la lan
 Quand le joueur utilise ce sort, il doit choisir une mutation qui soit réalisable pour lui. Après un certain temps, qui sera défini par la complexité/volume de la transformation, le/a personnage va acquérir ladite mutation qui restera jusqu’au prochain repos ou retrait volontaire.
 
 Selon le niveau du sort, le personnage ne peut accueillir qu’un nombre restreint de mutations simultanément. Chaque mutation possède son propre coût de malfaisance et de volume.  
-Quand il décide de muter son corps, il va dépenser autant de malfaisance que son coût. En fonction du coût total de la mutation par rapport à la capacité maximale de points, la transformation va prendre un temps plus ou moins long.
+Quand il décide de muter son corps, il va dépenser autant de malfaisance que son coût. En fonction du coût total de la mutation par rapport à la capacité maximale de points, la transformation va prendre un temps plus ou moins long. Il ne peut faire qu'une seule action de mutation par tour.
 
 Si jamais le coût total est inférieur ou égal à 10% de la quantité maximale, la transformation prendra une réaction. (Elle peut être faite durant le tour des adversaires).
 Si jamais le coût total est inférieur ou égal à 33% de la quantité maximale, la transformation prendra une petite action.
@@ -16,12 +16,12 @@ Si elle est comprise de 34% à 66%, elle nécessitera une grande action. Sinon, 
 
 ##### Temps de mutation en fonction de pts de malfaisance dépensés.
 
-| Sort de niveau | Niveau 1 | Niveau 2 | Niveau 3 |
-| -------------- | -------- | -------- | -------- |
-| Réaction       | 0-1      | 0-3      | 0-6      |
-| Petite action  | 2-3      | 4-10     | 7-20     |
-| Grande action  | 4-6      | 11-20    | 21-40    |
-| Tour complet   | 7-10     | 21-30    | 41-60    |
+| Sort de niveau | Niveau 1 | Niveau 2 | Niveau 3 | Niveau 4 |
+| -------------- | -------- | -------- | -------- | -------- |
+| Réaction       | 0-1      | 0-3      | 0-6      | 0-18     |
+| Petite action  | 2-3      | 4-10     | 7-20     | 19-60    |
+| Grande action  | 4-6      | 11-20    | 21-40    | 61-120   |
+| Tour complet   | 7-10     | 21-30    | 41-60    | 121-180  |
 
 
 Le joueur peut décider de garder une mutation en payant la moitié de son coût à la fin du long repos. S’il le fait un nombre de jours égaux à son coût de mutation, il le garde éternellement et n’a plus besoin de le payer en malfaisance le matin. 
@@ -138,6 +138,7 @@ Vous modifiez votre corps, lui donnant un aspect différent.
 | Niveaux du sort | Niveau 1 | Niveau 2 | Niveau 3 | Niveau 4 |
 | --------------- | -------- | -------- | -------- | -------- |
 | Plafond         | 10       | 30       | 60       | 180      |
+|                 |          |          |          |          |
 
 ## Tableau de coût pour créer sa propre mutation
 

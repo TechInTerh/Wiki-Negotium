@@ -3,63 +3,95 @@ Created: 2024-10-05T17:47
 ---
 ## Description :
 
-Sans doute le sort le plus connu. Son objectif ? Réduire en cendre l'adversaire. Une fois la flamme invoquée, son contrôleur peut en faire ce qu'il veut. Boule de feu, météore, brasier, lance-flamme... Tous les moyens sont bons pour qu'il ne reste rien de l'obstacle
+Sans doute le sort le plus connu. Son objectif ? Réduire en cendres l'adversaire. Une fois la flamme invoquée, son contrôleur peut en faire ce qu'il veut. Boule de feu, météore, brasier, lance-flamme... Tous les moyens sont bons pour qu'il ne reste rien de l'obstacle
 
 ## Comment l’utiliser :
 
-Quand ce joueur lance un sort, il peut choisir l’un des effets suivants, puis une de ses versions. Il va en dépenser son cout puis ses effets se verront apparaitre. S’il le souhaite, le joueur peut discuter avec le MJ pour ajouter un effet. (Hors séance si possible).
+Quand ce joueur lance un sort, il peut choisir l’un des effets suivants, puis une de ses versions. Il va en dépenser le cout puis ses effets se verront apparaitre.
+Le sort touche toujours sa cible.
 
-## Dégâts
+Le joueur peut uniquement choisir un niveau d'effet qui est inférieur ou égal à son niveau à celui de son sort.
 
-En général, cela se définit s'il y a une ou plusieurs cibles et si le sort se maintient dans le temps. Voici un tableau d’aide pour la dépense malfaisance pour le sort, ainsi que les dégâts.
+#### Dash
 
-En général, cela demande une action d’attaque.
+Vous vous projetez dans une direction.
+Ce sort peut être utilisé pour traverser des obstacles.
+Si vous rencontrez un ennemi, vous lui infligez des dégâts.
 
-Si un sort demande un jet de confrontation (e.g. brûler, repousser, enchanter un adversaire…), le nombre de jets correspondra.
+| Niveau de Dash        | 1   | 2   | 3   | 4   |
+| --------------------- | --- | --- | --- | --- |
+| Nombre d'augmentation | 1   | 3   | 5   | 8   |
+| Cout de malfaisance   | 2   | 4   | 8   | 16  |
+| Niveau pallier max    | 1   | 2   | 3   | 4   |
 
-|                             |                                                            |                                                                                |                                                               |                                                          |
-| --------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------- | -------------------------------------------------------- |
-|                             | Cible unique/petite zone, éphémère. (Rayon, point, boule…) | Cible unique/Petite zone, prolongée. (Flamme, aura, chauffer de l’équipement…) | Grande Zone/plusieurs, cibles éphémères (Souffle, explosion…) | Grande Zone/plusieurs cibles, prolongées. (Mur, sphère…) |
-| Niveau 1  <br>Coût : 1-4 pt | **Dégât :** 3d6  <br>**Portée :** 9-18m                    | **Dégât :** 2d6  / tour<br>**Portée : 3-**9m                                   | **Dégâts :** 2d6 <br>**Portée :** 3-9m.                       | X                                                        |
-| Niveau 2  <br>Coût : -5 pt  | **Dégât :** 7d6  <br>**Portée :** 9-36m                    | **Dégât :** 4d6 / tour<br>**Portée :** 9-18m                                   | **Dégât :** 4d6 <br>**Portée :** 3-18m<br>**Largeur :** 4,5m  | **Dégâts :** 3d6 / tour<br>**Portée :** 3-6m             |
-| Niveau 3<br>Coût : 6-8 pt   | **Dégât :** 12d6  <br>**Portée :** 9-36m                   | **Dégât :** 9d6 / tour<br>**Portée :** 9-18m                                   | **Dégât :** 7d6 <br>**Portée :** 3-18m<br>**Largeur :** 4,5m  | **Dégâts :** 5d6 / tour<br>**Portée :** 3-6m             |
+| Nb augmentations | 0             | 1               | 2              | 3              | 4             |
+| ---------------- | ------------- | --------------- | -------------- | -------------- | ------------- |
+| Portée           | 6m            | 12m             | 24m            | 48m            | 96m           |
+| Dégât contact    | 0             | 2d6             | 3d6            | 5d6            | 8d6           |
+| Discrétion       | 0 (tapageur)  | 5d6 (indiscret) | 10d6 (réservé) | 15d6 (prudent) | 20d6 (furtif) |
+| Actions          | Grande action | X               | Petite action  | Réaction       | Instantanée   |
 
-### Exemples
 
-_**Titre :** description (Niveau du sort, couts, dégâts, portées)_
-##### Niveau 1
-_**Projectile de feu :**_ Un Éclat de feu plonge vers une cible. (Niv 1, 1pt, 3d6, 18m)
+##### Exemples
 
-_**Aura de feu :**_ Des flammes apparaissent autour de vous ou d’un objet de votre choix (vous devez le voir). Cela inflige des dégâts par tour à tous les ennemis à votre contact. (Niv 1, 1pt/tour, 2d6/tour, contact de l’aura)
+**Reposition (1) :** 2 pts de malfaisance, 12m de portée, zéro dégât, 0d6 de discrétion, grande action.
 
-_**Souffles de feu :**_ Un crachat de flammes brûlant tous sur son passage. Cône largeur de 3 mètres. (Niv 1, 2pt, 2d6, 6m)
+**Projection lointaine (3)** : 8 pts de malfaisance, 48m de portée, zéro dégât, 0d6 de discrétion, réaction.
 
-_**Métal brulant :**_ Le lanceur tente de chauffer le métal pour le rendre brûlant à toutes créatures en contact physique. (Niv 1, 1pt / tour, 2d4 /tour, 9m)
+**Rocket punch (3)** : 8 pts de malfaisance, 24m de portée, 5d6 dégâts, 0d6 discrétion, grande action.
 
-##### Niveau 2
 
-_**Mur de feu :**_ Un mur de feu s’élève et barre le chemin de tout adversaire. Vous décidez de la forme du mur. (Niv 2, 3pt/tour, 3d6 / tour, ligne de 6m)
+#### Projectile
 
-_**Vague explosive :**_ Une énorme explosion propulse toutes les créatures autour du lanceur. Ils sont propulsés sur 6m à moins de faire un jet confrontation de constitution. (Niv 2, 4pt, 4d6, 6m autour du lanceur).
+Une éclatante traînée lumineuse est émise de la pointe de votre doigt vers un point de votre choix dans la portée du sort, puis s'amplifie dans un rugissement grave jusqu'à éclater en flammes.
 
-_**Boule de feu majeure :**_ Une éclatante traînée lumineuse est émise de la pointe de votre doigt vers un point de votre choix dans la portée du sort, puis s'amplifie dans un rugissement grave jusqu'à éclater en flammes. (Niv 2, 5pt, 6d6, 18m de distance et toute créature à 3m autour de la boule).
+| Niveau de Projectile  | 1   | 2   | 3   | 4   |
+| --------------------- | --- | --- | --- | --- |
+| Nombre d'augmentation | 2   | 4   | 7   | 12  |
+| Cout de malfaisance   | 2   | 8   | 25  | 64  |
+| Niveau pallier max    | 1   | 2   | 3   | 4   |
 
-  
+| Nb augmentations         | 0             | 1   | 2   | 3             | 4        |
+| ------------------------ | ------------- | --- | --- | ------------- | -------- |
+| Portée                   | 6m            | 12m | 24m | 48m           | 96m      |
+| Dégâts (cible principal) | 3d6           | 5d6 | 9d6 | 14d6          | 22d6     |
+| Dégâts (zone autour)     | 0             | 2d6 | 3d6 | 5d6           | 8d6      |
+| Rayon d'explosion        | 0             | 1m  | 2m  | 4m            | 8m       |
+| Actions                  | Grande action | X   | X   | Petite action | Réaction |
 
-_Notes : il s’agit d’indications qui visent à aider le joueur et le MJ, et à utiliser ce sort. Le joueur peut tout à fait lancer une boule de feu au niveau 1. Mais, sa puissance sera réduite, par exemple, par ses dégâts ou sa portée._  
-_Pour gagner du temps lors des sessions, il est vivement conseillé que le joueur prépare une liste de capacités validée par le MJ avant la séance._
+##### Exemples
 
-## Autres
+**Trait de feu (1):** 2 pts de malfaisance, 12m de portée, 5d6 dégâts (principale), grande action.
 
-### **Exemple d’autres sorts**
+**Boule de feu majeure (3)** : 25 pts de malfaisance, 12m, 9d6 dégâts, 3d6 de dégâts à 2m autour, grande action.
 
-_**Propulsion :**_ **L**e lanceur utilise des flammes pour se propulser à une forte vitesse dans une direction. Chaque creature se trouvant sur le passage doit faire un jet confrontation (Dextérité) ou subir 3d4 dégâts. (Niv 1, 2pt, 3d4, propulsion sur 9m).
+**Achèvement du sniper (4):** 64 pts de malfaisance, 96m, 22d6 dégâts, Réaction.
 
-  
 
-|   |   |   |   |
-|---|---|---|---|
-|Niveau|Sorts|Effets secondaires/Capacités|Nombre de dés lors d’une confrontation|
-|1|Pyrotechnie de niveau moyen.|Accès aux version 1.|5|
-|2|Pyrotechnie de haut niveau.|Accès aux version 2 :|10|
-|3|Pyrotechnie de niveau divin.|Accès aux version 3 :|15|
+#### Souffle
+
+Un crachat de flammes brûlant tout sur son passage. 
+Vous pouvez également dépenser de la malfaisance pour créer un mur de feu. 
+
+| Niveau de Souffle     | 1   | 2   | 3   | 4   |
+| --------------------- | --- | --- | --- | --- |
+| Nombre d'augmentation | 2   | 4   | 7   | 12  |
+| Cout de malfaisance   | 2   | 8   | 25  | 64  |
+| Niveau pallier max    | 1   | 2   | 3   | 4   |
+
+| Nb augmentations     | 0             | 1   | 2   | 3             | 4        |
+| -------------------- | ------------- | --- | --- | ------------- | -------- |
+| Longueur             | 3m            | 5m  | 8m  | 12m           | 18m      |
+| Largeur              | 1m            | 3m  | 7m  | 9m            | 11m      |
+| Dégâts (zone autour) | 2d6           | 3d6 | 5d6 | 8d6           | 12d6     |
+| Nombre tours         | 0             | 1   | 2   | 4             | 8        |
+| Action               | Grande action | X   | X   | Petite action | Réaction |
+
+##### Exemples
+
+
+**Gros éternuement (1):** 2 pts de malfaisance, 5m de longueur, 3m de largeur, 2d6 dégâts, grande action.
+
+**Mur de feu (2)** : 8 pts de malfaisance, 8m de longueur, 1m de largeur, 2d6 dégâts, reste deux tours, grande action.
+
+**Brasier (4):** 64 pts de malfaisance, 12m de longueur, 7m de largeur, 12d6 dégâts, reste quatre tours, grande action.

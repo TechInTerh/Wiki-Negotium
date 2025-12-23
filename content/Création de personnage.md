@@ -27,7 +27,7 @@ Les joueurs vont s’infiltrer dans les hautes sphères de la société, usant d
 Les joueurs vont choisir un sort parmi 12. Le MJ Leur fera une description sommaire, présentant les avantages et inconvénient de chacun.
 
 - [[Appel aux morts (Necromancie)]] : Relever les morts de leur tombe sous forme de cadavres obéissants
-- [[Absorption d'âmes (Animamancie)]] : Absorber les âmes pour les corrompre, et le redistribuer dans d’autres corps ou objets.
+- [[Extraction d'âmes (Animamancie)]] : Absorber les âmes pour les corrompre, et le redistribuer dans d’autres corps ou objets.
 - [[Contagion]] : Créer des maladies et poison.
 
 - [[Mutation]] : Contrôler la biologie de son corps pour évoluer en quelque chose de supérieur
@@ -71,14 +71,14 @@ Néanmoins, le Mortelangue est une langue malfaisante, son utilisation en publiq
 *Exemples à écrire, ainsi que sa création complète.*
 
 ## 3eme axe : Les caractéristiques
-
-Répartir 3, 4 et 5 entre les trois caractéristiques principales.
+##### Caractéristiques principales.
+Répartir 3, 4 et 5 entre les trois 
 
 - Corps
 - Sociale
 - Mental
-
-Pour les caractéristiques secondaires, choisir entre
+##### Caractéristiques secondaires.
+Choisir entre
 
 - 0,1,1,2,2,3,3,4,5
 - 1,1,2,2,2,3,3,3,4

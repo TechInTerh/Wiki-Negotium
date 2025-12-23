@@ -23,14 +23,18 @@ Créer un personnage se fera [[Création de personnage|Ici]]
 
 Explications des [[Combat|Combats]]
 
-
-Les sorts [[Absorption d'âmes (Animamancie)]], [[Appel aux morts (Necromancie)]], [[Manipulation du feu (pyromancie)]], [[Tempête]] et [[Mutation]] sont écrits et en cours de test.
+Les sorts [[Extraction d'âmes (Animamancie)]], [[Appel aux morts (Necromancie)]], [[Manipulation du feu (pyromancie)]], [[Tempête]] et [[Mutation]] sont écrits et en cours de test.
 
 Les sorts [[Contrôle mental]],[[Incantomancie]], [[Illusion]],[[Férocité de la nature]], [[Zone d’ombre]],[[Contagion]] et [[Corruption Animaliste]] seront réécrits, puis retestés plus tard. 
 Vous pouvez y jeter un coup d'œil si vous le souhaitez.
 
 ## Versions
 
+#### 0.1.6 (12/12/2025)
+- Update de [[Extraction d'âmes (Animamancie)]]
+- Début de mis à jour de [[Manipulation du feu (pyromancie)]], mais a besoin de plus de travail.
+- Ajoute de la capacité de pas de coté dans [[Combat]]
+- 
 #### 0.1.5 (05/12/2025)
 - Restructuration de [[Mutation]], description avec un tableau pour chaque mutation.
 - Corrections de typos.
