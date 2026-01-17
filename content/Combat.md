@@ -103,7 +103,6 @@ Cela coute une réaction.
 
 Lors d’un combat, les joueurs peuvent utiliser de la [[Malfaisance]] pour augmenter leur puissance de combat, en plus de lancer des sorts. Elle peut se faire de plusieurs manières et peut être dépensé à n’importe quel moment.
 
-- 1 point pour se déplacer de 3m (deux cases) sans dépenser d’actions.
 - 1 points pour relancer un dé de son choix (dégât ou jet de caractéristique). Il n'est possible de ne relancer qu'une seul fois le dé.
 - 1 point pour se soigner 1d6. Nécessite une petite action (max 3d6 par tour).
 - 3 points pour avoir une réaction supplémentaire.
