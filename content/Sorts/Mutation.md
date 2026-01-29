@@ -18,13 +18,16 @@ Si elle est comprise de 34% à 66%, elle nécessitera une grande action. Sinon, 
 
 | Sort de niveau | Niveau 1 | Niveau 2 | Niveau 3 | Niveau 4 |
 | -------------- | -------- | -------- | -------- | -------- |
-| Réaction       | 0-1      | 0-3      | 0-6      | 0-18     |
-| Petite action  | 2-3      | 4-10     | 7-20     | 19-60    |
-| Grande action  | 4-6      | 11-20    | 21-40    | 61-120   |
 | Tour complet   | 7-10     | 21-30    | 41-60    | 121-180  |
+| Grande action  | 4-6      | 11-20    | 21-40    | 61-120   |
+| Petite action  | 2-3      | 4-10     | 7-20     | 19-60    |
+| Réaction       | 0-1      | 0-3      | 0-6      | 0-18     |
 
 
-Le joueur peut décider de garder une mutation en payant la moitié de son coût à la fin du long repos. S’il le fait un nombre de jours égaux à son coût de mutation, il le garde éternellement et n’a plus besoin de le payer en malfaisance le matin. 
+
+
+
+Le joueur peut décider de garder une mutation en payant la moitié de son coût à la fin d'un long repo. S’il le fait un nombre de jours égaux à son coût de mutation, il le garde éternellement et n’a plus besoin de le payer en malfaisance le matin. 
 Toutefois, il est quand même compté dans la quantité de points de mutations. De plus, s’il veut temporairement révoquer la mutation, il devra payer son coût de malfaisance. 
 
 _Exemple : un joueur qui décide de garder un bras épée le matin doit payer deux de malfaisance pendant quatre jours, avant de pouvoir le garder éternellement. Une fois acquis, s’il veut transformer son bras-épée en bras normal, il sera obligé de payer 4 points de malfaisances. Le bras redeviendra épée durant le long repos._  
@@ -102,7 +105,7 @@ Attaque : Corps + Visée + Bonus touché
 | Bonus touché               | 0            | +2d6                | +4d6                                      |
 | Dégâts                     | 3d6          | 5d6                 | 8d6                                       |
 | Distance                   | 9m           | 18m                 | 18m                                       |
-| Capacités<br>(Automatique) |              | [[Pousser (Shove)]] | [[Pousser (Shove)]]<br>[[Frappe (Thwak)]] |
+| Capacités<br>(Automatique) |              | [[Pousser 1]] | [[Pousser 1]]<br>[[Frappe (Thwak)]] |
 | Coûts                      | 8            | 16                  | 32                                        |
 
 ##### Membre tentaculaire
@@ -111,10 +114,10 @@ Votre membre s'étend, et est capable d'atteindre une cible lointaine.
 Il est capable d'interagir à distance.
 Possible de combiner avec une autre mutation.
 
-|          | Niveau 2 |
-| -------- | -------- |
-| Distance | 4m       |
-| Cout     | 6        |
+|          | Niveau 1 | Niveau 2 | Niveau 3 | Niveau 4 |
+| -------- | -------- | -------- | -------- | -------- |
+| Distance | 1m       | 4m       | 8m       | 16m      |
+| Cout     | 2        | 6        | 10       | 20       |
 ##### Perception
 Vos sens sensoriels s'améliorent
 
@@ -128,7 +131,7 @@ Vos sens sensoriels s'améliorent
 
 Vous modifiez votre corps, lui donnant un aspect différent.
 
-|       | Niveau 0                                                                            |
+|       | Niveau 1                                                                            |
 | ----- | ----------------------------------------------------------------------------------- |
 | Notes | Toujours proche de votre nature originelle. <br>Elle doit purement être décorative. |
 | Cout  | 0                                                                                   |
@@ -138,7 +141,6 @@ Vous modifiez votre corps, lui donnant un aspect différent.
 | Niveaux du sort | Niveau 1 | Niveau 2 | Niveau 3 | Niveau 4 |
 | --------------- | -------- | -------- | -------- | -------- |
 | Plafond         | 10       | 30       | 60       | 180      |
-|                 |          |          |          |          |
 
 ## Tableau de coût pour créer sa propre mutation
 

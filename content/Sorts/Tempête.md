@@ -28,17 +28,16 @@ Il est possible d'avoir un effet inférieur au niveau de tempête actuel si ce j
 #### Éclair
 En une petite action, invoque un éclair qui s’abat sur un point précis.
 
-| Niveau Tempete<br><br> | Naturel | Niveau 1    | Niveau 2                                                                                    | Niveau 3                                                         | Niveau 4                                                                      |
-| ---------------------- | ------- | ----------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **Dégâts**             | 1d6     | 2d6<br><br> | 3d6<br>                                                                                     | 5d6<br><br>                                                      | 7d6<br>                                                                       |
-| **Effets +**           | X       | X           | Réparti 2d6 supplémentaires <br>parmi d'autre créatures à moins de<br>3m du point d'impact. | Les autres créatures <br>à 3m du point d'impact<br>prennent 3d6. | Vous pouvez rediriger l'éclair<br>sur jusqu'à trois autres<br>créatures à 6m. |
-| **Coût**               | 1pts    | 2pts        | 4pts                                                                                        | 8pts                                                             | 16pts                                                                         |
-| **Portée**             | 18m     | 18m         | 18m                                                                                         | 24m                                                              | 36m                                                                           |
+| Niveau Tempete<br><br> | Naturel | Niveau 1    | Niveau 2                                                                                             | Niveau 3                                                         | Niveau 4                                                                      |
+| ---------------------- | ------- | ----------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| **Dégâts**             | 1d6     | 2d6<br><br> | 3d6<br>                                                                                              | 5d6<br><br>                                                      | 7d6<br>                                                                       |
+| **Effets +**           | X       | X           | Réparti 2d6 supplémentaires <br>parmi d'autre créatures choisies<br>à moins de 3m du point d'impact. | Les autres créatures <br>à 3m du point d'impact<br>prennent 3d6. | Vous pouvez rediriger l'éclair<br>sur jusqu'à trois autres<br>créatures à 6m. |
+| **Coût**               | 1pts    | 2pts        | 4pts                                                                                                 | 8pts                                                             | 16pts                                                                         |
+| **Portée**             | 18m     | 18m         | 18m                                                                                                  | 24m                                                              | 36m                                                                           |
 
 #### Orage
 En une grande action, invoque un nuage abattant continuellement des éclairs sur une zone.
-Lors de l'invocation et au début du tour, inflige les dégâts à l'ensemble des ennemis en dessous.
-Un seul nuage invoqué par ailleurs.
+Lors de l'invocation et au début du tour, inflige les dégâts à l'ensemble des ennemis en dessous. Un seul nuage ne peut invoqué simultanement.
 
 | Niveau Tempete | Naturel | Niveau 1    | Niveau 2                                              | Niveau 3                                               | Niveau 4                                                         |
 | -------------- | ------- | ----------- | ----------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------- |
@@ -51,7 +50,7 @@ Un seul nuage invoqué par ailleurs.
 #### Bourrasque
 
 Projette une claque  violente de vent sur une ligne. Le joueur fait un jet (nb de dés indiqué sur le niveau).
-Les adversaires ayant  un score de resistance  inférieur sont projeté, et subissent des dégâts  en cas de collision.
+Les adversaires ayant  un score de resistance  inférieur sont projeté, et subissent des dégâts  en cas de collision. Grance action.
 
 | Niveau Tempete      | Naturel | Niveau 1     | Niveau 2     | Niveau 3      | Niveau 4      |
 | ------------------- | ------- | ------------ | ------------ | ------------- | ------------- |
@@ -64,12 +63,12 @@ Les adversaires ayant  un score de resistance  inférieur sont projeté, et subi
 
 ###  Tableau des coûts
 
-| Niveau du sort | Points de malfaisance <br>pour ce niveau | Nombre de niveaux <br>d'effets passifs | Durée    |
-| -------------- | ---------------------------------------- | -------------------------------------- | -------- |
-| 1              | 2                                        | 2                                      | 3 tours  |
-| 2              | 10                                       | 4                                      | 5 tours  |
-| 3              | 25                                       | 6                                      | 7 tours  |
-| 4              | 50                                       | 8                                      | 10 tours |
+| Niveau du sort | Coût de mis à jour de tempête. <br>pour ce niveau | Nombre de niveaux <br>d'effets passifs | Durée    |
+| -------------- | ------------------------------------------------- | -------------------------------------- | -------- |
+| 1              | 2                                                 | 2                                      | 3 tours  |
+| 2              | 10                                                | 4                                      | 5 tours  |
+| 3              | 25                                                | 6                                      | 7 tours  |
+| 4              | 50                                                | 8                                      | 10 tours |
 
 # Exemples
 

@@ -1,0 +1,1 @@
+Vous pouvez pousser la cible de jusqu'à 4m en arrière.

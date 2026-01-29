@@ -48,8 +48,8 @@ Voici les réactions les plus communes :
 
 - **Esquiver.** Le personnage tente d’esquiver un coup qu’il voit. L’attaquant et la cible font chacun un jet de mêlée/visée (en fonction du type d’attaque). Si jamais l’attaquant a un score supérieur ou égal à la cible, celle-ci touche.
 - **Attaque d’opportunité.** Si jamais un personnage s’éloigne d’un autre personnage avec une arme de contact, ce dernier peut tenter de faire un jet d’attaque gratuitement.
-- **Lever son bouclier.** Si le personnage porte un bouclier, il peut lever son bouclier pour ajouter son bonus d’armure à la prochaine attaque.
 - **Faire un pas de côté** : Uniquement durant le tour du personnage et une fois par tour, il peut utiliser une réaction pour se déplacer de 3m. 
+- **Repport de grande / petite action** : le joueur peut décider de reporter une action, en déclarant à l'avance l'action prévue et la condition pour que celle ci se lance. Par example, un archer peut tirer en réaction d'une porte qui s'ouvre.
 
 Les personnages regagnent leur grande, petite et leurs réactions au début de leur tour.
 
@@ -76,28 +76,31 @@ Attaquer avec une arme requiert un jet de corps+(Contact ou Distance) si l'adver
 | Epée longue        | 2d6                | 5d6    | [[Fendre (Cleaves)]], [[Parrer (Parry)]]             | [[Contact]]  | [[Two-handed]] |                                                                           |
 | Hache à une main   | 0                  | 4d6    | [[Frappe (Thwak)]]                                   | [[Contact]]  | [[One-handed]] |                                                                           |
 | Hache à deux mains | 0                  | 6d6    | [[Fendre (Cleaves)]], [[Frappe (Thwak)]]             | [[Contact]]  | [[Two-handed]] |                                                                           |
-| Marteau léger      | -2d6               | 5d6    | [[Smash]], [[Pousser (Shove)]]                       | [[Contact]]  | [[One-handed]] |                                                                           |
-| Marteau de guerre  | -2d6               | 7d6    | [[Fendre (Cleaves)]], [[Pousser (Shove)]], [[Smash]] | [[Contact]]  | [[Two-handed]] |                                                                           |
+| Marteau léger      | -2d6               | 5d6    | [[Smash]], [[Pousser 1]]                       | [[Contact]]  | [[One-handed]] |                                                                           |
+| Marteau de guerre  | -2d6               | 7d6    | [[Fendre (Cleaves)]], [[Pousser 1]], [[Smash]] | [[Contact]]  | [[Two-handed]] |                                                                           |
 
 ### Armures
 
 Chaque armure possède un nombre de points d’armure. Chaque point d’armure permet d’enlever un nombre de dégâts physiques pour chaque point d’armure.
 
-| file name     | Points d'armures | Mot clés               |
-| ------------- | ---------------- | ---------------------- |
-| Armure lourde | 3                | [[Encombrement léger]] |
-| Armure légère | 1                |                        |
+| file name      | Points d'armures | Mot clés               |
+| -------------- | ---------------- | ---------------------- |
+| Armure lourde  | 5                | [[Encombrement lourd]] |
+| Armure moyenne | 3                | [[Encombrement léger]] |
+| Armure légère  | 1                |                        |
 
 ### Boucliers
 
-Les boucliers permettent 
+Les boucliers ajoute une ou plusieurs opportunité d'esquiver au personnage.
 
-Quand un joueur voit un coup, arriver sur son personnage ou un allié à son contact, il peut lever son bouclier pour réduire les dégâts en augmentant le nombre total de points d’armures.
-Cela coute une réaction.
+Quand un joueur voit un coup, arriver sur son personnage ou un allié à son contact, il peut lever son bouclier pour tenter de bloquer l'attaque. En cas de réussite, l'attaque échoue. En cas d'echec, le joueur peut toujours tenter de faire son jet d'esquive en utilisant une point de réaction. 
 
-|          | Points d’armures en levée de boucliers | Autres indications     |
-| -------- | -------------------------------------- | ---------------------- |
-| Bouclier | 3                                      | [[Encombrement léger]] |
+Une main libre est nécéssaire afin de porter un bouclier.
+
+|                | Jet de bloquage | Nombre de <br>levées par tour | Autres indications     |
+| -------------- | --------------- | ----------------------------- | ---------------------- |
+| Bouclier leger | Corps + 4d6     | 1                             | [[Encombrement léger]] |
+| Bouclire lourd | Corps + 8d6     | 2                             | [[Encombrement lourd]] |
 
 ## Consommation de malfaisances
 
@@ -106,8 +109,8 @@ Lors d’un combat, les joueurs peuvent utiliser de la [[Malfaisance]] pour augm
 - 1 points pour relancer un dé de son choix (dégât ou jet de caractéristique). Il n'est possible de ne relancer qu'une seul fois le dé.
 - 1 point pour se soigner 1d6. Nécessite une petite action (max 3d6 par tour).
 - 3 points pour avoir une réaction supplémentaire.
-- 5 points pour avoir une petite action supplémentaire ou convertir une petite action en grande action.
-- 10 points pour avoir une grande action supplémentaire.
+- 5 points pour avoir une petite action supplémentaire ou convertir une petite action en grande action.*
+- 10 points pour avoir une grande action supplémentaire.*
 
 \*Vous ne pouvez activer cette capacité qu'une seule fois par tour.
 

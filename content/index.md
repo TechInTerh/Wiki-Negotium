@@ -23,12 +23,25 @@ Créer un personnage se fera [[Création de personnage|Ici]]
 
 Explications des [[Combat|Combats]]
 
+Pour augmenter votre personnage, ce sera dans [[Expériences]]
+
 Les sorts [[Extraction d'âmes (Animamancie)]], [[Appel aux morts (Necromancie)]], [[Manipulation du feu (pyromancie)]], [[Tempête]] et [[Mutation]] sont en cours d'écriture
 
 Les sorts [[Contrôle mental]],[[Incantomancie]], [[Illusion]],[[Férocité de la nature]], [[Zone d’ombre]],[[Contagion]] et [[Corruption Animaliste]] seront réécrits, puis retestés plus tard. 
 Vous pouvez y jeter un coup d'œil si vous le souhaitez.
 
 ## Versions
+
+#### 0.2.0 (29/01/2026)
+ - [[Combat]]
+	 - Mis à our des boucliers.
+	 - Ajout du report d'action 
+ - Ajout de la page [[Negotium/public_wiki/Expériences|Expériences]]
+	 - Description brève
+	 - Tableau pour augmenter les caractéristiques
+	 - Tableaux pour agmenter l'utilisation des armes et boucliers
+	 - Augmentations de [[Manipulation du feu (pyromancie)]], [[Extraction d'âmes (Animamancie)]], [[Tempête]], [[Appel aux morts (Necromancie)]], [[Mutation]]
+
 
 #### 0.1.8 (17/01/2026)
 - Mis à jour de [[Manipulation du feu (pyromancie)]]

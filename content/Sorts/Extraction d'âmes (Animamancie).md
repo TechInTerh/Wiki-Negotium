@@ -14,7 +14,7 @@ Ce sort permet l'extraction d'âme des corps humanoïdes, puis de les utiliser d
 
 Extraire une âme requiert une grande action et d’être au contact de sa cible. Le joueur décide du montant de malfaisance qu'il veut dépenser puis active son don. Pour chaque point de malfaisance, il lance 1d6. Si jamais la somme est supérieur ou égale au nombre de PV, le joueur tue instantanément la cible et récupère son âme. 
 
-L’absorption est extrêmement douloureuse pour la victime et celle-ci va hurler de douleur. Le corps de la victime devient pâle et immobile.
+L’absorption est extrêmement douloureuse pour la victime et celle-ci va hurler de douleur. Le corps de la victime devient pâle et immobile si celle-ci se retrouver démunis de son âme.
 
 Chaque niveau de sort possède un plafond de malfaisance dépensable.
 

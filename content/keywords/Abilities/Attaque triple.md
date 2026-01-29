@@ -1,2 +1,1 @@
-Vous pouvez attaquer deux cibles en une seul attaque. Vous répartissez comme vous le shouaitez 
-les dés de dégâts.
+Vous pouvez attaquer jusqu'à trois cibles en une seule attaque. Vous répartissez comme vous le souhaitez les dés de dégâts (le nombre de dés total ne change pas).
