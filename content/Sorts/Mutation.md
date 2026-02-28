@@ -23,17 +23,59 @@ Si elle est comprise de 34% à 66%, elle nécessitera une grande action. Sinon, 
 | Petite action  | 2-3      | 4-10     | 7-20     | 19-60    |
 | Réaction       | 0-1      | 0-3      | 0-6      | 0-18     |
 
-
-
-
-
 Le joueur peut décider de garder une mutation en payant la moitié de son coût à la fin d'un long repo. S’il le fait un nombre de jours égaux à son coût de mutation, il le garde éternellement et n’a plus besoin de le payer en malfaisance le matin. 
 Toutefois, il est quand même compté dans la quantité de points de mutations. De plus, s’il veut temporairement révoquer la mutation, il devra payer son coût de malfaisance. 
 
 _Exemple : un joueur qui décide de garder un bras épée le matin doit payer deux de malfaisance pendant quatre jours, avant de pouvoir le garder éternellement. Une fois acquis, s’il veut transformer son bras-épée en bras normal, il sera obligé de payer 4 points de malfaisances. Le bras redeviendra épée durant le long repos._  
 
+##### Limite par niveau
+
+| Niveaux du sort | Niveau 1 | Niveau 2 | Niveau 3 | Niveau 4 |
+| --------------- | -------- | -------- | -------- | -------- |
+| Plafond         | 10       | 30       | 60       | 180      |
+
 ## Liste de mutations
 
+### Corps
+
+
+| Nb augmentations       | 1<br>(4 pts)    | 2<br>(8 pts)      | 3<br>(16 pts)      | 4<br>(32 pts)      |
+| ---------------------- | --------------- | ----------------- | ------------------ | ------------------ |
+| Résistance             | +10pv/ 1 armure | +20pv / 2 armures | +40 pv / 4 armures | +70pv /7 armures   |
+| Athletisme / Mouvement | +2d6/m          | +4d6/m            | +8d6/m             | +16d6/m            |
+| Discrétion             | +3d6            | +6d6              | +10d6              | +15d6              |
+| Bonus d'esquive        | +3d6            | +1 reaction/ +6d6 | +2 reaction/ +9d6  | +3 reaction/ +12d6 |
+| Perception             | +3d6            | +6d6              | +10d6              | +15d6              |
+| Charisme               | +3d6            | +6d6              | +10d6              | +15d6              |
+| Intimidation           | +3d6            | +6d6              | +10d6              | +15d6              |
+| Augmentation de taille | X               | 3 cases           | 5 cases            | 7 cases            |
+| Diminution de taille   | X               | 0.5 cases         | 0.25 cases         | 0.125 cases        |
+| Bonus toucher          | +2d6            | +4d6              | +6d6               | +8d6               |
+| Bonus dégâts           | +1d6            | +2d6              | +4d6               | +7d6               |
+##### Exemples
+
+**Lézardisme (2)** :  24 pts de malfaisance, +4d6 athletisme (+4 mouvements), +6d6 discretion, +1 reaction, +6d6 esquives.
+
+**Gigantisme (3):** 48 pts de malfaisance, +40pv; +4 armures, taille=5 cases, +4d6 toucher, +2d6 dégâts
+
+### Membre supérieur
+
+| Nb augmentations                           | 1<br>(4 pts)       | 2<br>(8 pts)       | 3<br>(16 pts)                                      | 4<br>(32 pts)                                                          |
+| ------------------------------------------ | ------------------ | ------------------ | -------------------------------------------------- | ---------------------------------------------------------------------- |
+| Dégâts Arme                                | 3d6                | 5d6                | 8d6                                                | 12d6                                                                   |
+| Tentacule                                  | 1m                 | 2m                 | 4m                                                 | 8m                                                                     |
+| Portée (défaut contact)                    | 3m                 | 6m                 | 12m                                                | 24m                                                                    |
+| Capacités <br>(Automatique, par capacité)  |                    | <br>               |                                                    | [[Frappe (Thwak)]] ;<br>[[Entraver (Hinder)]];<br>[[Fendre (Cleaves)]] |
+| Capacité <br>(Petite action, par capacité) | [[Parrer (Parry)]] | [[Frappe (Thwak)]] | [[Fendre (Cleaves)]];<br>[[Entraver (Hinder)]]<br> |                                                                        |
+
+**Bras lame (2):** 24 pts de malfaisance, +4d6 toucher, 5d6 dégâts, [[Parrer (Parry)]] & [[Fendre (Cleaves)]]. 
+
+**Lance pique (3):** 24 pts de malfaisance, 18m de portée, +4d6 toucher, 5d6 dégâts, [[Frappe (Thwak)]].
+
+## Limite par niveau
+
+
+# Anciens
 ##### Gigantisme
 
 Vous grandissez de plusieurs mètres, vos muscles se développent.
@@ -136,11 +178,6 @@ Vous modifiez votre corps, lui donnant un aspect différent.
 | Notes | Toujours proche de votre nature originelle. <br>Elle doit purement être décorative. |
 | Cout  | 0                                                                                   |
 
-## Limite par niveau
-
-| Niveaux du sort | Niveau 1 | Niveau 2 | Niveau 3 | Niveau 4 |
-| --------------- | -------- | -------- | -------- | -------- |
-| Plafond         | 10       | 30       | 60       | 180      |
 
 ## Tableau de coût pour créer sa propre mutation
 

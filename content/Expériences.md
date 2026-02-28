@@ -62,7 +62,7 @@ Répartie en quatre niveaux. Chaque passage au niveau supérieur requiert le niv
 
 | Hache à une main          | Niveau 1           | Niveau 2           | Niveau 3           | Niveau 4           |
 | ------------------------- | ------------------ | ------------------ | ------------------ | ------------------ |
-| Bonus pour toucher        | 0                  | 0                  | 0                  | 0                  |
+| Bonus pour toucher        | 0                  | 1d6                | 2d6                | 3d6                |
 | Dégâts                    | 4d6                | 6d6                | 8d6                | 10d6               |
 | Capacités (petite action) | [[Frappe (Thwak)]] | [[Frappe (Thwak)]] |                    |                    |
 | Capacité (automatique)    |                    |                    | [[Frappe (Thwak)]] | [[Frappe (Thwak)]] |
@@ -77,7 +77,7 @@ Répartie en quatre niveaux. Chaque passage au niveau supérieur requiert le niv
 
 | Hache à deux mains        | Niveau 1                                 | Niveau 2                                 | Niveau 3             | Niveau 4                                |
 | ------------------------- | ---------------------------------------- | ---------------------------------------- | -------------------- | --------------------------------------- |
-| Bonus pour toucher        | 0                                        | 0                                        | 0                    | 0                                       |
+| Bonus pour toucher        | 0                                        | 1d6                                      | 2d6                  | 3d6                                     |
 | Dégâts                    | 6d6                                      | 8d6                                      | 11d6                 | 15d6                                    |
 | Capacités (petite action) | [[Fendre (Cleaves)]], [[Frappe (Thwak)]] | [[Fendre (Cleaves)]], [[Frappe (Thwak)]] | [[Fendre (Cleaves)]] |                                         |
 | Capacité (automatique)    |                                          |                                          | [[Frappe (Thwak)]]   | [[Frappe (Thwak)]],[[Fendre (Cleaves)]] |
@@ -89,7 +89,7 @@ Répartie en quatre niveaux. Chaque passage au niveau supérieur requiert le niv
 
 | Hache à une main          | Niveau 1                 | Niveau 2                 | Niveau 3       | Niveau 4                 |
 | ------------------------- | ------------------------ | ------------------------ | -------------- | ------------------------ |
-| Bonus pour toucher        | -2d6                     | -3d6                     | -4d6           | -5d6                     |
+| Bonus pour toucher        | -2d6                     | -2d6                     | -2d6           | -2d6                     |
 | Dégâts                    | 5d6                      | 7d6                      | 10d6           | 13d6                     |
 | Capacités (petite action) | [[Smash]], [[Pousser 1]] | [[Smash]], [[Pousser 1]] | [[Pousser 2]]  |                          |
 | Capacité (automatique)    |                          |                          | [[Smash]]      | [[Smash]], [[Pousser 2]] |
@@ -101,7 +101,7 @@ Répartie en quatre niveaux. Chaque passage au niveau supérieur requiert le niv
 
 | Marteau de guerre         | Niveau 1                                          | Niveau 2                                | Niveau 3                 | Niveau 4                                          |
 | ------------------------- | ------------------------------------------------- | --------------------------------------- | ------------------------ | ------------------------------------------------- |
-| Bonus pour toucher        | -2d6                                              | -3d6                                    | -4d6                     | -5d6                                              |
+| Bonus pour toucher        | -2d6                                              | -2d6                                    | -2d6                     | -2d6                                              |
 | Dégâts                    | 7d6                                               | 10d6                                    | 14d6                     | 18d6                                              |
 | Capacités (petite action) | [[Fendre (Cleaves)]],<br>[[Pousser 1]], [[Smash]] | [[Fendre (Cleaves)]], <br>[[Pousser 2]] | [[Fendre (Cleaves)]]     |                                                   |
 | Capacité (automatique)    |                                                   | [[Smash]]                               | [[Pousser 3]], [[Smash]] | [[Fendre (Cleaves)]], <br>[[Pousser 4]],[[Smash]] |
@@ -126,7 +126,7 @@ Répartie en quatre niveaux. Chaque passage au niveau supérieur requiert le niv
 ##### Arbalète
 | Arbalète                  | Niveau 1                                                                  | Niveau 2                                                                  | Niveau 3                                                                  | Niveau 4                          |
 | ------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------- |
-| Bonus pour toucher        | 0                                                                         | -1d6                                                                      | -2d6                                                                      | -3d6                              |
+| Bonus pour toucher        | 0                                                                         | 0                                                                         | 0                                                                         | 0                                 |
 | Dégâts                    | 4d6                                                                       | 7d6                                                                       | 11d6                                                                      | 15d6                              |
 | Capacités (petite action) | [[Entraver (Hinder)]]                                                     | [[Entraver (Hinder)]]                                                     |                                                                           |                                   |
 | Capacité (automatique)    |                                                                           |                                                                           | [[Entraver (Hinder)]]                                                     | [[Entraver (Hinder)]]             |
@@ -160,7 +160,7 @@ Répartie en quatre niveaux. Chaque passage au niveau supérieur requiert le niv
 
 ### [[Manipulation du feu (pyromancie)]]
 ##### Niv 1
-- Vous pouvez choisir la couleur des flammes (1 points).
+- Vous pouvez choisir la couleur des flammes (1 point).
 ##### Niv 2
 - Le départ de souffle est modifiable par un ajout d'une nouvelle ligne. (15 points)
 
@@ -173,9 +173,10 @@ Répartie en quatre niveaux. Chaque passage au niveau supérieur requiert le niv
 | Nb augmentations | 0   | 1<br>(2 pts) | 2<br>(4 pts) | 3<br>(8 pts) | 4<br>(16 pts) |
 | ---------------- | --- | ------------ | ------------ | ------------ | ------------- |
 | Discrétion       | 0   | 6d6          | 10d6         | 18d6         | 30d6          |
-
+- Vous êtes immunisés aux dégâts de feu (20 points)
+- Le dash ne provoque pas d'attaque d'opportunité (25 points)
 ##### Niv 3
-- Les dégâts ont [[Frappe (Thwak)]] (100 points)
+- Les dégâts ont [[Frappe (Thwak)]] (75 points)
 ##### Niv 4
 
 ### [[Mutation]]
@@ -216,7 +217,7 @@ Répartie en quatre niveaux. Chaque passage au niveau supérieur requiert le niv
 ### [[Appel aux morts (Necromancie)]]
 ##### Niv 1
 - La distance d'escouade augmente à 3m. (5 points)
-- Vos zombies ont un chapeau aléatoire (1 points).
+- Vos zombies portent un chapeau aléatoire (1 points).
 ##### Niv 2
 - Augmente le rayon de réanimation à 9m (20 points)
 - Les zombies ont une petite action dès la réanimation. (15 points)
@@ -227,3 +228,15 @@ Répartie en quatre niveaux. Chaque passage au niveau supérieur requiert le niv
 - La zone de réanimation peut être à distance, jusqu'à 18m (50 points).
 - Une fois par tour, en une réaction, vous pouvez modifier les zombies invoqués (sauf PV) (75 points)
 ##### Niv 4
+
+
+## Fusions de sorts
+
+### [[Zombies de feu]]
+
+##### Niv 1
+- Vous pouvez choisir si le zombie explose ou non (5 points)
+##### Niv 2
+- Vous pouvez choisir si les zombies prennet les dégâts d'explosion ou non (15 points)
+- Vos alliés et vous même ne pprenezpas les dégâts d'explosion (25 points) 
+##### Niv 3

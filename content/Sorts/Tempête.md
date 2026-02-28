@@ -49,7 +49,7 @@ Lors de l'invocation et au début du tour, inflige les dégâts à l'ensemble de
 
 #### Bourrasque
 
-Projette une claque  violente de vent sur une ligne. Le joueur fait un jet (nb de dés indiqué sur le niveau).
+Projette une claque violente de vent sur une ligne. Le joueur fait un jet (nb de dés indiqué sur le niveau).
 Les adversaires ayant  un score de resistance  inférieur sont projeté, et subissent des dégâts  en cas de collision. Grance action.
 
 | Niveau Tempete      | Naturel | Niveau 1     | Niveau 2     | Niveau 3      | Niveau 4      |

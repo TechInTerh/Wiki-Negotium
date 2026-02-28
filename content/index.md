@@ -32,6 +32,15 @@ Vous pouvez y jeter un coup d'œil si vous le souhaitez.
 
 ## Versions
 
+#### 0.3.0 (28/02/2026)
+- [[Expériences]]
+	- Enlevé les malus pour toucher pour marteaux et arbalètes
+	- Ajouté des légers bonus pour haches
+- Ajouts Fusions des sorts
+	- [[Tempete de feu]]
+	- [[Mutation de feu]]
+	- [[Zombies de feu]]
+- Evolution de [[Mutation]]
 #### 0.2.0 (29/01/2026)
  - [[Combat]]
 	 - Mis à our des boucliers.
