@@ -7,7 +7,7 @@ La création de perso se fait en 3 étapes : Le choix du sort, le choix d’un f
 
 Les joueurs vont choisir un sort parmi 12. Le MJ fera une description sommaire, présentant les avantages et inconvénients de chacun.
 
-##### Écrits et testés
+##### En cours d'écritures
 
 - [[Appel aux morts (Necromancie)]] : Relever les morts de leur tombe sous forme de cadavres obéissants.
 - [[Extraction d'âmes (Animamancie)]] : Absorber les âmes pour les corrompre, et le redistribuer dans d’autres corps ou objets.
@@ -15,7 +15,7 @@ Les joueurs vont choisir un sort parmi 12. Le MJ fera une description sommaire, 
 - [[Manipulation du feu (pyromancie)]] : Invoquer et contrôler des flammes.
 - [[Tempête]] : Contrôler la météo, pour invoquer bourrasques, foudres et torrents.
 
-##### En cours d'écritures
+##### Pour + tard
 
 - [[Incantomancie]] : Augmenter et invoquer des objets magiques (à écrire)
 - [[Contagion]] : Créer des maladies et poison.

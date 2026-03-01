@@ -32,6 +32,10 @@ Vous pouvez y jeter un coup d'œil si vous le souhaitez.
 
 ## Versions
 
+
+#### 0.31 (01/03/2026)
+- Quelques précisions dans [[Tempete de feu]], ajout de réduction de coût.
+
 #### 0.3.0 (28/02/2026)
 - [[Expériences]]
 	- Enlevé les malus pour toucher pour marteaux et arbalètes
@@ -41,9 +45,10 @@ Vous pouvez y jeter un coup d'œil si vous le souhaitez.
 	- [[Mutation de feu]]
 	- [[Zombies de feu]]
 - Evolution de [[Mutation]]
+
 #### 0.2.0 (29/01/2026)
  - [[Combat]]
-	 - Mis à our des boucliers.
+	 - Mis à jour des boucliers.
 	 - Ajout du report d'action 
  - Ajout de la page [[Negotium/public_wiki/Expériences|Expériences]]
 	 - Description brève
