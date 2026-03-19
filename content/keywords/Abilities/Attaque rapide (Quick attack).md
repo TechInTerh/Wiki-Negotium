@@ -1,0 +1,1 @@
+Vous attaquez avec un seul point d'action.

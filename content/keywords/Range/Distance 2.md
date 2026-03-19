@@ -1,0 +1,1 @@
+Portée de 12 m. Vous avez le désavantage quand la cible se trouve au contact de vous.

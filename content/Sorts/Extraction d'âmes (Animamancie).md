@@ -12,7 +12,7 @@ Ce sort permet l'extraction d'âme des corps humanoïdes, puis de les utiliser d
 
 #### Extraire une âme
 
-Extraire une âme requiert une grande action et d’être au contact de sa cible. Le joueur décide du montant de malfaisance qu'il veut dépenser puis active son don. Pour chaque point de malfaisance, il lance 1d6. Si jamais la somme est supérieur ou égale au nombre de PV, le joueur tue instantanément la cible et récupère son âme. 
+Extraire une âme requiert deux points d'action et d’être au contact de sa cible. Le joueur décide du montant de malfaisance qu'il veut dépenser puis active son don. Pour chaque point de malfaisance, il lance 1d6. Si jamais la somme est supérieur ou égale au nombre de PV, le joueur tue instantanément la cible et récupère son âme. 
 
 L’absorption est extrêmement douloureuse pour la victime et celle-ci va hurler de douleur. Le corps de la victime devient pâle et immobile si celle-ci se retrouver démunis de son âme.
 
@@ -24,7 +24,7 @@ Chaque niveau de sort possède un plafond de malfaisance dépensable.
 
 Une fois l'âme acquise, il est possible de l'utiliser de plusieurs manières :
 
-- [[Corruption|Corrompre]] l'âme afin qu'elle rejoigne le joueur en tant qu'esclave. Le joueur à l’avantage pour tous jets de corruption. 
+- Corrompre l'âme afin qu'elle rejoigne le joueur en tant qu'esclave. Le joueur à l’avantage pour tous jets de corruption. 
 - Absorber l'âme afin d'avoir des capacités et caractéristiques supplémentaires temporaires. Les effets et et l'action dépendent de la capacité. (Le MJ donnera les effets possibles).
 - Replacer l'âme dans un corps humanoïde vide d'âme, pour le réanimer.
 

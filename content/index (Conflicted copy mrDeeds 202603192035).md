@@ -32,14 +32,17 @@ Vous pouvez y jeter un coup d'œil si vous le souhaitez.
 
 ## Versions
 
-#### 0.4 (19/03/2026)
-- Renommé Visée en Distance
+#### 0.4
+- Renommer Visée en Distance
 - Nerf des boucliers dans [[Expériences]]
 - Changement des effets passifs dans [[Tempete de feu]]
 - Augmentation du coup de déplacement de l'orage.
 - Nerf des dégâts dans [[Manipulation du feu (pyromancie)]]
-- Correction des coûts pour souffle dans [[Manipulation du feu (pyromancie)]]
-- Remanipulation des actions dans [[Combat]]
+- Correction des coûts pour souffle dans [[[Manipulation du feu (pyromancie)]]]
+- Remanipulation des actions dans [[Combat]] et dans tous les sorts
+- Baissé la formule de Mobilté dans [[Création de personnage]]
+- Renommé Charme en Charisme
+
 #### 0.3.1 (01/03/2026)
 - Quelques précisions dans [[Tempete de feu]], ajout de réduction de coût.
 

@@ -9,7 +9,7 @@ _Les autres voient une pratique interdite, moi je vois un cycle, comme quoi la m
 Ce sort permet de relever les morts sous forme de zombies. *À écrire + tard pour faire zolie
 
 ### Réanimer des zombies 
-Grande action, réanime une série de corps situés à 3m de distance du lanceur. Ensuite attribue à une escouade (soit en créant, soit en assignant à une existante à proximité). Chaque créature doit être identique.
+En deux points d'action, réanime une série de corps situés à 3m de distance du lanceur. Ensuite attribue à une escouade (soit en créant, soit en assignant à une existante à proximité). Chaque créature doit être identique.
 
 ### Fonctionnement d'une escouade
 - Chaque membre d'une escouade doit être à proximité de l'autre (avec une distance maximale de 2m pour commencer).
@@ -28,12 +28,9 @@ Elle prend donc juste que trois dégâts et celui qui s'est pris l'attaque meurt
 *Exemple 2. Un magicien inflige six dégâts à trois zombies dans une escouade de cinq zombies à 10pv et un d'armure. Il multiplie ses dégâts et l'armure par trois, résultant à 15 dégâts. L'escouade a déjà subi huit dégâts auparavant. Les PV de l'escouade descendent à 27, ce qui est suffisant pour tuer deux zombies parmi les touchés, au choix du magicien qui a lancé la boule de feu.*
 ### Actions des zombies
 
-Voici les actions possibles.
-- **Attaque**: Ordonne d'attaquer une cible en contact. Nécessite une grande action.
+Voici les actions possibles. Comme pour les joueurs, le zombie en possède 3 par tour.
+- **Attaque**: Ordonne d'attaquer une cible en contact. Nécessite une deux points  d'action.
 - **Bouge**: Ordonne au zombie de se mouvoir jusqu'à la position donnée en utilisant son score de mouvement total.
-
-Petites actions possibles :
-* **Bouge** : l'escouade bouge de la moitié de ses mouvements.
 
 Voici les réactions possibles (une réaction par zombie):
 - **Attaque d'opportunité**
@@ -58,8 +55,8 @@ tout en respectant les limites prévues par le niveau du zombie.
 | Nb augmentations                    | 0 (défault)  | 1 (moyen)        | 2 (fort)         | 3 (excellent)     | 4 (expert)        | 5 (maitre)              |
 | ----------------------------------- | ------------ | ---------------- | ---------------- | ----------------- | ----------------- | ----------------------- |
 | Résistance                          | 3pv          | 10pv/ 1 armure   | 20pv / 2 armures | 30 pv / 3 armures | 60pv /6 armures   | 100 pv /  10 armures    |
-| Bonus d'attaque<br>(toucher/dégâts) | 2d6/1d6      | 3d6/2d6          | 6d6/3d6          | 9d6/5d6           | 13d6/8d6          | 18d6/12d6               |
-| Mouvement                           | 6m           | 10m              | 14m              | 18m               | 26m               | 36m                     |
+| Bonus d'attaque<br>(toucher/dégâts) | 2d6/1d6      | 4d6/2d6          | 6d6/3d6          | 9d6/5d6           | 13d6/8d6          | 18d6/12d6               |
+| Athlétisme/mobiiité                 | 6m/d6        | 10m/d6           | 14m/d6           | 18m/d6            | 26m/d6            | 36m                     |
 | Discrétion                          | 0 (tapageur) | 3d6 (indiscret)  | 6d6 (réservé)    | 10d6 (prudent)    | 15d6 (furtif)     | 20d6<br>(imperceptible) |
 | Réactions                           | 0            | 1<br>Esquive:4d6 | 2<br>Esquive:7d6 | 3<br>Esquive:10d6 | 4<br>Esquive:15d6 | 5<br>Esquive:20d6       |
 

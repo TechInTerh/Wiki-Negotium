@@ -7,6 +7,18 @@ Il s’agit d’exploits leur ayant permis de monter en puissance, de favoriser 
 
 Le gain de malfaisance est à la libre interprétation du MJ. Celui-ci peut décider de donner plus ou moins de malfaisances en fonction du Role play des joueurs et de la nature du haut-fait.
 
+
+# Augmentation des PV
+$M$ est la malfiasance total
+$R$ est la resilience
+
+$PV= M+\frac{M}{10}*R = M(1+\frac{R}{10})$
+- Augmentation de malfaisance
+- Augmentation de resilience
+- Consommer un objet
+
+
+
 # Réduire au maximum pour s'améliorer
 Les joueurs ont trois choix pour améliorer leur personnage :
 
@@ -40,7 +52,7 @@ Répartie en quatre niveaux. Chaque passage au niveau supérieur requiert le niv
 | ------------------------- | ------------------ | ------------------ | ------------------------------------- | --------------------------------------- |
 | Bonus pour toucher        | 2d6                | 4d6                | 6d6                                   | 8d6                                     |
 | Dégâts                    | 3d6                | 4d6                | 6d6                                   | 8d6                                     |
-| Capacités (petite action) | [[Parrer (Parry)]] | [[Parrer (Parry)]] | [[Parrer (Parry)]]                    | [[Parrer (Parry)]]                      |
+| Capacités (1 point d'action) | [[Parrer (Parry)]] | [[Parrer (Parry)]] | [[Parrer (Parry)]]                    | [[Parrer (Parry)]]                      |
 | Capacité (automatique)    |                    |                    |                                       |                                         |
 | Portée                    | [[Contact]]        | [[Contact]]        | [[Contact]]                           | [[Contact]]                             |
 | Prise en main             | [[One-handed]]     | [[One-handed]]     | [[One-handed]]                        | [[One-handed]]                          |
@@ -48,27 +60,27 @@ Répartie en quatre niveaux. Chaque passage au niveau supérieur requiert le niv
 
 ##### Épée longue
 
-| Epée courte               | Niveau 1                                 | Niveau 2                                 | Niveau 3                                 | Niveau 4                                |
-| ------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | --------------------------------------- |
-| Bonus pour toucher        | 2d6                                      | 4d6                                      | 6d6                                      | 8d6                                     |
-| Dégâts                    | 5d6                                      | 7d6                                      | 10d6                                     | 14d6                                    |
-| Capacités (petite action) | [[Fendre (Cleaves)]], [[Parrer (Parry)]] | [[Fendre (Cleaves)]], [[Parrer (Parry)]] | [[Fendre (Cleaves)]], [[Parrer (Parry)]] | [[Parrer (Parry)]]                      |
-| Capacité (automatique)    |                                          |                                          |                                          | [[Fendre (Cleaves)]]                    |
-| Portée                    | [[Contact]]                              | [[Contact]]                              | [[Contact]]                              | [[Contact]]                             |
-| Prise en main             | [[Two-handed]]                           | [[Two-handed]]                           | [[Two-handed]]                           | [[Two-handed]]                          |
-| notes                     |                                          | +4d6 pour parrer                         | +6d6 pour parrer ;  2 parrades / tour    | +8d6 pour parrer; <br>3 parrades / tour |
+| Epée courte               | Niveau 1                                   | Niveau 2                                   | Niveau 3                                   | Niveau 4                                |
+| ------------------------- | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ | --------------------------------------- |
+| Bonus pour toucher        | 2d6                                        | 4d6                                        | 6d6                                        | 8d6                                     |
+| Dégâts                    | 5d6                                        | 7d6                                        | 10d6                                       | 14d6                                    |
+| Capacités (1 point d'action) | [[Fendre (Cleaves) 1]], [[Parrer (Parry)]] | [[Fendre (Cleaves) 1]], [[Parrer (Parry)]] | [[Fendre (Cleaves) 1]], [[Parrer (Parry)]] | [[Parrer (Parry)]]                      |
+| Capacité (automatique)    |                                            |                                            |                                            | [[Fendre (Cleaves) 1]]                  |
+| Portée                    | [[Contact]]                                | [[Contact]]                                | [[Contact]]                                | [[Contact]]                             |
+| Prise en main             | [[Two-handed]]                             | [[Two-handed]]                             | [[Two-handed]]                             | [[Two-handed]]                          |
+| notes                     |                                            | +4d6 pour parrer                           | +6d6 pour parrer ;  2 parrades / tour      | +8d6 pour parrer; <br>3 parrades / tour |
 
 ##### Hache à une main
 
-| Hache à une main          | Niveau 1           | Niveau 2           | Niveau 3           | Niveau 4           |
-| ------------------------- | ------------------ | ------------------ | ------------------ | ------------------ |
-| Bonus pour toucher        | 0                  | 1d6                | 2d6                | 3d6                |
-| Dégâts                    | 4d6                | 6d6                | 8d6                | 10d6               |
-| Capacités (petite action) | [[Frappe (Thwak)]] | [[Frappe (Thwak)]] |                    |                    |
-| Capacité (automatique)    |                    |                    | [[Frappe (Thwak)]] | [[Frappe (Thwak)]] |
-| Portée                    | [[Contact]]        | [[Contact]]        | [[Contact]]        | [[Contact]]        |
-| Prise en main             | [[One-handed]]     | [[One-handed]]     | [[One-handed]]     | [[One-handed]]     |
-| notes                     |                    |                    |                    |                    |
+| Hache à une main          | Niveau 1       | Niveau 2       | Niveau 3       | Niveau 4       |
+| ------------------------- | -------------- | -------------- | -------------- | -------------- |
+| Bonus pour toucher        | 0              | 1d6            | 2d6            | 3d6            |
+| Dégâts                    | 4d6            | 6d6            | 8d6            | 10d6           |
+| Capacités (1 point d'action) | [[Frappe]]     | [[Frappe]]     |                |                |
+| Capacité (automatique)    |                |                | [[Frappe]]     | [[Frappe]]     |
+| Portée                    | [[Contact]]    | [[Contact]]    | [[Contact]]    | [[Contact]]    |
+| Prise en main             | [[One-handed]] | [[One-handed]] | [[One-handed]] | [[One-handed]] |
+| notes                     |                |                |                |                |
 
 
 
@@ -79,8 +91,8 @@ Répartie en quatre niveaux. Chaque passage au niveau supérieur requiert le niv
 | ------------------------- | ---------------------------------------- | ---------------------------------------- | -------------------- | --------------------------------------- |
 | Bonus pour toucher        | 0                                        | 1d6                                      | 2d6                  | 3d6                                     |
 | Dégâts                    | 6d6                                      | 8d6                                      | 11d6                 | 15d6                                    |
-| Capacités (petite action) | [[Fendre (Cleaves)]], [[Frappe (Thwak)]] | [[Fendre (Cleaves)]], [[Frappe (Thwak)]] | [[Fendre (Cleaves)]] |                                         |
-| Capacité (automatique)    |                                          |                                          | [[Frappe (Thwak)]]   | [[Frappe (Thwak)]],[[Fendre (Cleaves)]] |
+| Capacités (1 point d'action) | [[Fendre (Cleaves) 1]], [[Frappe]] | [[Fendre (Cleaves) 1]], [[Frappe]] | [[Fendre (Cleaves) 1]] |                                         |
+| Capacité (automatique)    |                                          |                                          | [[Frappe]]   | [[Frappe]],[[Fendre (Cleaves) 1]] |
 | Portée                    | [[Contact]]                              | [[Contact]]                              | [[Contact]]          | [[Contact]]                             |
 | Prise en main             | [[Two-handed]]                           | [[Two-handed]]                           | [[Two-handed]]       | [[Two-handed]]                          |
 | notes                     |                                          |                                          |                      |                                         |
@@ -91,7 +103,7 @@ Répartie en quatre niveaux. Chaque passage au niveau supérieur requiert le niv
 | ------------------------- | ------------------------ | ------------------------ | -------------- | ------------------------ |
 | Bonus pour toucher        | -2d6                     | -2d6                     | -2d6           | -2d6                     |
 | Dégâts                    | 5d6                      | 7d6                      | 10d6           | 13d6                     |
-| Capacités (petite action) | [[Smash]], [[Pousser 1]] | [[Smash]], [[Pousser 1]] | [[Pousser 2]]  |                          |
+| Capacités (1 point d'action) | [[Smash]], [[Pousser 1]] | [[Smash]], [[Pousser 1]] | [[Pousser 2]]  |                          |
 | Capacité (automatique)    |                          |                          | [[Smash]]      | [[Smash]], [[Pousser 2]] |
 | Portée                    | [[Contact]]              | [[Contact]]              | [[Contact]]    | [[Contact]]              |
 | Prise en main             | [[One-handed]]           | [[One-handed]]           | [[One-handed]] | [[One-handed]]           |
@@ -103,8 +115,8 @@ Répartie en quatre niveaux. Chaque passage au niveau supérieur requiert le niv
 | ------------------------- | ------------------------------------------------- | --------------------------------------- | ------------------------ | ------------------------------------------------- |
 | Bonus pour toucher        | -2d6                                              | -2d6                                    | -2d6                     | -2d6                                              |
 | Dégâts                    | 7d6                                               | 10d6                                    | 14d6                     | 18d6                                              |
-| Capacités (petite action) | [[Fendre (Cleaves)]],<br>[[Pousser 1]], [[Smash]] | [[Fendre (Cleaves)]], <br>[[Pousser 2]] | [[Fendre (Cleaves)]]     |                                                   |
-| Capacité (automatique)    |                                                   | [[Smash]]                               | [[Pousser 3]], [[Smash]] | [[Fendre (Cleaves)]], <br>[[Pousser 4]],[[Smash]] |
+| Capacités (1 point d'action) | [[Fendre (Cleaves) 1]],<br>[[Pousser 1]], [[Smash]] | [[Fendre (Cleaves) 1]], <br>[[Pousser 2]] | [[Fendre (Cleaves) 1]]     |                                                   |
+| Capacité (automatique)    |                                                   | [[Smash]]                               | [[Pousser 3]], [[Smash]] | [[Fendre (Cleaves) 1]], <br>[[Pousser 4]],[[Smash]] |
 | Portée                    | [[Contact]]                                       | [[Contact]]                             | [[Contact]]              | [[Contact]]                                       |
 | Prise en main             | [[Two-handed]]                                    | [[Two-handed]]                          | [[Two-handed]]           | [[Two-handed]]                                    |
 | notes                     |                                                   |                                         |                          |                                                   |
@@ -117,9 +129,9 @@ Répartie en quatre niveaux. Chaque passage au niveau supérieur requiert le niv
 | ------------------------- | -------------- | --------------------- | --------------------- | --------------------- |
 | Bonus pour toucher        | 0              | 2d6                   | 4d6                   | 6d6                   |
 | Dégâts                    | 2d6            | 4d6                   | 7d6                   | 11d6                  |
-| Capacités (petite action) |                | [[Entraver (Hinder)]] | [[Entraver (Hinder)]] | [[Entraver (Hinder)]] |
+| Capacités (1 point d'action) |                | [[Entraver (Hinder)]] | [[Entraver (Hinder)]] | [[Entraver (Hinder)]] |
 | Capacité (automatique)    |                |                       | [[Attaque double]]    | [[Attaque triple]]    |
-| Portée                    | [[Distance]]   | [[Distance]]          | [[Distance]]          | [[Distance]]          |
+| Portée                    | [[Distance 3]] | [[Distance 4]]        | [[Distance 5]]        | [[Distance 6]]        |
 | Prise en main             | [[Two-handed]] | [[Two-handed]]        | [[Two-handed]]        | [[Two-handed]]        |
 | notes                     |                |                       |                       |                       |
 
@@ -128,9 +140,9 @@ Répartie en quatre niveaux. Chaque passage au niveau supérieur requiert le niv
 | ------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------- |
 | Bonus pour toucher        | 0                                                                         | 0                                                                         | 0                                                                         | 0                                 |
 | Dégâts                    | 4d6                                                                       | 7d6                                                                       | 11d6                                                                      | 15d6                              |
-| Capacités (petite action) | [[Entraver (Hinder)]]                                                     | [[Entraver (Hinder)]]                                                     |                                                                           |                                   |
+| Capacités (1 point d'action) | [[Entraver (Hinder)]]                                                     | [[Entraver (Hinder)]]                                                     |                                                                           |                                   |
 | Capacité (automatique)    |                                                                           |                                                                           | [[Entraver (Hinder)]]                                                     | [[Entraver (Hinder)]]             |
-| Portée                    | [[Distance]]                                                              | [[Distance]]                                                              | [[Distance]]                                                              | [[Distance]]                      |
+| Portée                    | [[Distance 3]]                                                            | [[Distance 4]]                                                            | [[Distance 5]]                                                            | [[Distance 6]]                    |
 | Prise en main             | [[Two-handed]]                                                            | [[Two-handed]]                                                            | [[Two-handed]]                                                            | [[Two-handed]]                    |
 | notes                     | [[Rechargement lent (Slow reloading)]], [[Attaque rapide (Quick attack)]] | [[Rechargement lent (Slow reloading)]], [[Attaque rapide (Quick attack)]] | [[Rechargement lent (Slow reloading)]], [[Attaque rapide (Quick attack)]] | [[Attaque rapide (Quick attack)]] |
 
@@ -143,7 +155,7 @@ Répartie en quatre niveaux. Chaque passage au niveau supérieur requiert le niv
 | Bouclier leger                | Niveau 1               | Niveau 2               | Niveau 3    | Niveau 4     |
 | ----------------------------- | ---------------------- | ---------------------- | ----------- | ------------ |
 | Jet de bloquage               | Corps + 4d6            | Corps + 6d6            | Corps + 9d6 | Corps + 13d6 |
-| Nombre de <br>levées par tour | 1                      | 1                      | 2           | 3            |
+| Nombre de <br>levées par tour | 1                      | 1                      | 2           | 2            |
 | notes                         | [[Encombrement léger]] | [[Encombrement léger]] |             |              |
 
 
@@ -152,7 +164,7 @@ Répartie en quatre niveaux. Chaque passage au niveau supérieur requiert le niv
 | Bouclier lourd                | Niveau 1               | Niveau 2               | Niveau 3               | Niveau 4               |
 | ----------------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
 | Jet de bloquage               | Corps + 8d6            | Corps + 10d6           | Corps + 13d6           | Corps + 17d6           |
-| Nombre de <br>levées par tour | 2                      | 2                      | 3                      | 4                      |
+| Nombre de <br>levées par tour | 1                      | 2                      | 2                      | 3                      |
 | notes                         | [[Encombrement lourd]] | [[Encombrement lourd]] | [[Encombrement léger]] | [[Encombrement léger]] |
 
 ## Mono Pouvoirs
@@ -174,9 +186,9 @@ Répartie en quatre niveaux. Chaque passage au niveau supérieur requiert le niv
 | ---------------- | --- | ------------ | ------------ | ------------ | ------------- |
 | Discrétion       | 0   | 6d6          | 10d6         | 18d6         | 30d6          |
 - Vous êtes immunisés aux dégâts de feu (20 points)
-- Le dash ne provoque pas d'attaque d'opportunité (25 points)
+- Le dash ne provoque pas d'attaques d'opportunité (25 points)
 ##### Niv 3
-- Les dégâts ont [[Frappe (Thwak)]] (75 points)
+- Les dégâts ont [[Frappe]] (75 points)
 ##### Niv 4
 
 ### [[Mutation]]
@@ -195,22 +207,23 @@ Répartie en quatre niveaux. Chaque passage au niveau supérieur requiert le niv
 ##### Niv 2
 - Ne nécéssite aucune action pour invoquer une tempête (doit se faire dans le tour du joueur) (20 poins)
 - Rayon de la tempête augmente à 1 km (25 points)
-- Vous pouvez déplacer le nuage d'orage en utilisant une réaction, et donc durant le tour des adversaires. (25 points)
+
 ##### Niv 3
 - Rayon de la tempête augmente à 10 km (50 points)
+- Vous pouvez déplacer le nuage d'orage en utilisant une réaction, et donc durant le tour des adversaires. Activable une seule fois par tour (50 points)
 - Vous pouvez directement invoquer la tempête du niveau de votre choix (le coût reste le même et donc se cumule. (75 points)
 ##### Niv 4
 
 ### [[Extraction d'âmes (Animamancie)]]
 ##### Niv 1
 ##### Niv 2
-- Possibilité d'absorber une âme en une petite action, afin de se soigner.
+- Possibilité d'absorber une âme en  pet1 point d'actionfin de se soigner.
 
 | Niveau de l'âme | 0   | 1   | 2   | 3    | 4    |
 | --------------- | --- | --- | --- | ---- | ---- |
 | PV soignés      | 1d6 | 3d6 | 7d6 | 15d6 | 30d6 |
 ##### Niv 3
-- Vous pouvez faire l'action d'extraire en une petite action (75 points).
+- Vous pouvez faire l'action d'extraire en 1 point d'action (75 points).
 - Vous pouvez extraire simultanément deux cibles (pas d'augmentation sur le nombre de dés) (100 points).
 ##### Niv 4
 
@@ -220,11 +233,11 @@ Répartie en quatre niveaux. Chaque passage au niveau supérieur requiert le niv
 - Vos zombies portent un chapeau aléatoire (1 points).
 ##### Niv 2
 - Augmente le rayon de réanimation à 9m (20 points)
-- Les zombies ont une petite action dès la réanimation. (15 points)
-- Une fois par tour, en une grande action, vous pouvez modifier les zombies invoqués (sauf PV) (25 points)
+- Les zombies ont un point d'action dès la réanimation. (15 points)
+- Une fois par tour, en 2 points d'action, vous pouvez modifier les zombies invoqués (sauf PV) (25 points)
 ##### Niv 3
-- Réanime en petite action (50 points).
-- Les zombies ont une grande action dès la réanimation. (50 points)
+- Réanime en 1 point d'action (50 points).
+- Les zombies ont  2 points d'action dès la réanimation. (50 points)
 - La zone de réanimation peut être à distance, jusqu'à 18m (50 points).
 - Une fois par tour, en une réaction, vous pouvez modifier les zombies invoqués (sauf PV) (75 points)
 ##### Niv 4
@@ -238,5 +251,5 @@ Répartie en quatre niveaux. Chaque passage au niveau supérieur requiert le niv
 - Vous pouvez choisir si le zombie explose ou non (5 points)
 ##### Niv 2
 - Vous pouvez choisir si les zombies prennet les dégâts d'explosion ou non (15 points)
-- Vos alliés et vous même ne pprenezpas les dégâts d'explosion (25 points) 
+- Vos alliés et vous même (sauf les zombies) ne prenez pas les dégâts d'explosion (25 points) 
 ##### Niv 3

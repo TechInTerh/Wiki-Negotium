@@ -1,1 +1,0 @@
-Portée de 18m.

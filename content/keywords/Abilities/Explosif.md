@@ -1,0 +1,1 @@
+Vous relancez l'ensemble des 6 que vous faites pour les dégâts, et sommez le total.

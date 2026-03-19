@@ -12,6 +12,15 @@ Pour regagner de la malfaisance, les joueurs ont plusieurs moyens :
 - Instaurer un culte à la gloire des joueurs
 - Et d’autres si idées qui plaisent aux dieux.
 
+### Tuer des PNJs
+
+A chaque fois qu'un PNJ est tué par un joueur ou un de leur allié et qu'ils sont à proximité, chaque joueur reçoit 
+un nombre de points de malfaisance.
+
+| Niveau du PNJ         | 0   | 1   | 2   | 3   | 4   | 5   |
+| --------------------- | --- | --- | --- | --- | --- | --- |
+| Malfaisance récupérée | 0   | 1   | 3   | 10  | 50  | 500 |
+
 
 ### La secte (à écrire)
 
