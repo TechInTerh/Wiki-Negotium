@@ -32,6 +32,10 @@ Vous pouvez y jeter un coup d'œil si vous le souhaitez.
 
 ## Versions
 
+#### 0.4.1 (23/03/2026)
+- Formule pour mobilité mise à jour.
+
+
 #### 0.4 (19/03/2026)
 - Renommé Visée en Distance
 - Nerf des boucliers dans [[Expériences]]
