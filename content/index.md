@@ -32,6 +32,9 @@ Vous pouvez y jeter un coup d'œil si vous le souhaitez.
 
 ## Versions
 
+#### 0.4.2 (29/05/2026)
+- Formule pour mobilité mise à jour.
+
 #### 0.4.1 (23/03/2026)
 - Formule pour mobilité mise à jour.
 

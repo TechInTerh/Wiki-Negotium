@@ -241,9 +241,3 @@ Répartie en quatre niveaux. Chaque passage au niveau supérieur requiert le niv
 - Vous pouvez choisir si les zombies prennet les dégâts d'explosion ou non (15 points)
 - Vos alliés et vous même (sauf les zombies) ne prenez pas les dégâts d'explosion (25 points) 
 ##### Niv 3
-
----
-Hello à tous. Voici les améliorations possible.
-Vous trouverez les détails dans https://techinterh.github.io/Wiki-Negotium/Exp%C3%A9riences/
-
-Note:  ne prenez pas en compte l'augmentation des PVs, c'est un truc temporaire
