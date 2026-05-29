@@ -7,18 +7,6 @@ Il s’agit d’exploits leur ayant permis de monter en puissance, de favoriser 
 
 Le gain de malfaisance est à la libre interprétation du MJ. Celui-ci peut décider de donner plus ou moins de malfaisances en fonction du Role play des joueurs et de la nature du haut-fait.
 
-
-# Augmentation des PV
-$M$ est la malfiasance total
-$R$ est la resilience
-
-$PV= M+\frac{M}{10}*R = M(1+\frac{R}{10})$
-- Augmentation de malfaisance
-- Augmentation de resilience
-- Consommer un objet
-
-
-
 # Réduire au maximum pour s'améliorer
 Les joueurs ont trois choix pour améliorer leur personnage :
 
@@ -253,3 +241,9 @@ Répartie en quatre niveaux. Chaque passage au niveau supérieur requiert le niv
 - Vous pouvez choisir si les zombies prennet les dégâts d'explosion ou non (15 points)
 - Vos alliés et vous même (sauf les zombies) ne prenez pas les dégâts d'explosion (25 points) 
 ##### Niv 3
+
+---
+Hello à tous. Voici les améliorations possible.
+Vous trouverez les détails dans https://techinterh.github.io/Wiki-Negotium/Exp%C3%A9riences/
+
+Note:  ne prenez pas en compte l'augmentation des PVs, c'est un truc temporaire
