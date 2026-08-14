@@ -65,10 +65,10 @@ _Exemple : un joueur qui décide de garder un bras épée le matin doit payer d
 | Dégâts Arme                                   | 3d6                | 5d6                | 8d6                                                | 12d6                                                                   |
 | Tentacule                                     | 1m                 | 2m                 | 4m                                                 | 8m                                                                     |
 | Portée (défaut contact)                       | 3m                 | 6m                 | 12m                                                | 24m                                                                    |
-| Capacités <br>(Automatique, par capacité)     |                    | <br>               |                                                    | [[Frappe]] ;<br>[[Entraver (Hinder)]];<br>[[Fendre (Cleaves) 1]] |
-| Capacité <br>(1 point d'action, par capacité) | [[Parrer (Parry)]] | [[Frappe]] | [[Fendre (Cleaves) 1]];<br>[[Entraver (Hinder)]]<br> |                                                                        |
+| Capacités <br>(Automatique, par capacité)     |                    | <br>               |                                                    | [[Frappe]] ;<br>[[Entraver (Hinder)]];<br>[[Fendre (Cleaves)]] |
+| Capacité <br>(1 point d'action, par capacité) | [[Parrer (Parry)]] | [[Frappe]] | [[Fendre (Cleaves)]];<br>[[Entraver (Hinder)]]<br> |                                                                        |
 
-**Bras lame (2):** 24 pts de malfaisance, +4d6 toucher, 5d6 dégâts, [[Parrer (Parry)]] & [[Fendre (Cleaves) 1]]. 
+**Bras lame (2):** 24 pts de malfaisance, +4d6 toucher, 5d6 dégâts, [[Parrer (Parry)]] & [[Fendre (Cleaves)]]. 
 
 **Lance pique (3):** 24 pts de malfaisance, 18m de portée, +4d6 toucher, 5d6 dégâts, [[Frappe]].
 
@@ -131,7 +131,7 @@ Attaque : Corps + Contact + Bonus touché
 | Bonus touché                    | +2d6               | +2d6                                         | +4d6                                         | +6d6                                         |
 | Dégâts                          | 3d6                | 5d6                                          | 8d6                                          | 12d6                                         |
 | Capacités<br>(Automatique)      |                    | <br>                                         | [[Frappe]]                                   | [[Frappe]]<br>[[Entraver (Hinder)]]          |
-| Capacité <br>(1 point d'action) | [[Parrer (Parry)]] | [[Parrer (Parry)]]<br>[[Fendre (Cleaves) 1]] | [[Parrer (Parry)]]<br>[[Fendre (Cleaves) 1]] | [[Parrer (Parry)]]<br>[[Fendre (Cleaves) 1]] |
+| Capacité <br>(1 point d'action) | [[Parrer (Parry)]] | [[Parrer (Parry)]]<br>[[Fendre (Cleaves)]] | [[Parrer (Parry)]]<br>[[Fendre (Cleaves)]] | [[Parrer (Parry)]]<br>[[Fendre (Cleaves)]] |
 | Coûts                           | 4                  | 8                                            | 16                                           | 32                                           |
 
 ##### Lance projectiles

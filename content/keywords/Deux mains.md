@@ -1,0 +1,1 @@
+Vus devez utiliser les deux mains pour porter l'arme.

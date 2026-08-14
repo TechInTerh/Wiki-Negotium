@@ -54,26 +54,17 @@ La plupart des combattants possèdent des moyens pour se protéger des coups (Ar
 Utiliser des armes augmente les chances des joueurs de toucher, et plus de permettre plus de dégâts.
 Attaquer avec une arme requiert un jet de corps+(Contact/Distance)+Bonus si l'adversaire tente d'esquiver.
 
-| file name          | Bonus pour toucher | Dégâts | Capacités (1 point d'action)                     | Portée         | Prise en main  | notes                                                                     |
-| ------------------ | ------------------ | ------ | ------------------------------------------------ | -------------- | -------------- | ------------------------------------------------------------------------- |
-| Arc                | 0                  | 2d6    |                                                  | [[Distance 3]] | [[Two-handed]] |                                                                           |
-| Arbalète           | 0                  | 4d6    | [[Entraver (Hinder)]]                            | [[Distance 3]] | [[Two-handed]] | [[Rechargement lent (Slow reloading)]], [[Attaque rapide (Quick attack)]] |
-| Epée courte        | 2d6                | 3d6    | [[Parrer (Parry)]]                               | [[Contact]]    | [[One-handed]] |                                                                           |
-| Epée longue        | 2d6                | 5d6    | [[Fendre (Cleaves) 1]], [[Parrer (Parry)]]       | [[Contact]]    | [[Two-handed]] |                                                                           |
-| Hache à une main   | 0                  | 4d6    | [[Frappe]]                                       | [[Contact]]    | [[One-handed]] |                                                                           |
-| Hache à deux mains | 0                  | 6d6    | [[Fendre (Cleaves) 1]], [[Frappe]]               | [[Contact]]    | [[Two-handed]] |                                                                           |
-| Marteau léger      | -2d6               | 5d6    | [[Smash]], [[Pousser 1]]                         | [[Contact]]    | [[One-handed]] |                                                                           |
-| Marteau de guerre  | -2d6               | 7d6    | [[Fendre (Cleaves) 1]], [[Pousser 1]], [[Smash]] | [[Contact]]    | [[Two-handed]] |                                                                           |
+**Voir les tableaux dans [[Experiences#Armes]] pour voir la list des armes**
 
 ### Armures
 
 Chaque armure possède un nombre de points d’armure. Chaque point d’armure permet d’enlever un nombre de dégâts physiques pour chaque point d’armure.
 
-| file name      | Points d'armures | Mot clés               |
-| -------------- | ---------------- | ---------------------- |
-| Armure lourde  | 5                | [[Encombrement lourd]] |
-| Armure moyenne | 3                | [[Encombrement léger]] |
-| Armure légère  | 1                |                        |
+| file name                               | Points d'armures | Mot clés               |
+| --------------------------------------- | ---------------- | ---------------------- |
+| Armure lourde (pas disponible au début) | 5                | [[Encombrement lourd]] |
+| Armure moyenne                          | 3                | [[Encombrement léger]] |
+| Armure légère                           | 1                |                        |
 
 ### Boucliers
 

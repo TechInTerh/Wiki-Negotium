@@ -1,0 +1,1 @@
+Vous n'avez besoin que d'une main pour tenir et utiliser l'objet.

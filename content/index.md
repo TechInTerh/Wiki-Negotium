@@ -23,7 +23,7 @@ Créer un personnage se fera [[Création de personnage|Ici]]
 
 Explications des [[Combat|Combats]]
 
-Pour augmenter votre personnage, ce sera dans [[Expériences]]
+Pour augmenter votre personnage, ce sera dans [[Experiences]]
 
 Les sorts [[Extraction d'âmes (Animamancie)]], [[Appel aux morts (Necromancie)]], [[Manipulation du feu (pyromancie)]], [[Tempête]] et [[Mutation]] sont en cours d'écriture
 
@@ -31,6 +31,24 @@ Les sorts [[Contrôle mental]],[[Incantomancie]], [[Illusion]],[[Férocité de l
 Vous pouvez y jeter un coup d'œil si vous le souhaitez.
 
 ## Versions
+#### 0.5
+- Mis à jour des armes dans [[Experiences]]
+	- Augmentation des dégats de l'épée courte et de l'arc
+	- Les capacités coutent une réaction au lieu d'un point d'action
+	- Traduction de [[Deux mains]]
+	- Traduction de [[Une main]]
+	- Suppression d'[[Entraver (Hinder)]] pour l'arbalète.
+	- Ajoute de [[Attaque rapide (Quick attack)]] pour les armes à une main.
+- Redirection des armes dans [[Combat]]
+- Pas d'armure lourde au début
+- Enlevé le 1 pour Cleave (on va mettre les nombres qu'à partir du 2).
+- Refonte de [[Extraction d'âmes (Animamancie)]]
+	- Plus de jets pour capturer les âmes
+	- Juste de la malfaisance à dépenser lors de sa mort.
+	- Augmentation du niveau d'âme stockable.
+	- Augmentation du niveau max d'âme possible de capturer.
+	- Plus possible de parler ni de corrompre l'âme qui il est dans le joueur.
+- Renommé Expérience en [[Experiences]] (les accents c'est chiant).
 
 #### 0.4.2 (29/05/2026)
 - Formule pour mobilité mise à jour.
@@ -41,7 +59,7 @@ Vous pouvez y jeter un coup d'œil si vous le souhaitez.
 
 #### 0.4 (19/03/2026)
 - Renommé Visée en Distance
-- Nerf des boucliers dans [[Expériences]]
+- Nerf des boucliers dans [[Experiences]]
 - Changement des effets passifs dans [[Tempete de feu]]
 - Augmentation du coup de déplacement de l'orage.
 - Nerf des dégâts dans [[Manipulation du feu (pyromancie)]]
@@ -51,7 +69,7 @@ Vous pouvez y jeter un coup d'œil si vous le souhaitez.
 - Quelques précisions dans [[Tempete de feu]], ajout de réduction de coût.
 
 #### 0.3.0 (28/02/2026)
-- [[Expériences]]
+- [[Experiences]]
 	- Enlevé les malus pour toucher pour marteaux et arbalètes
 	- Ajouté des légers bonus pour haches
 - Ajouts Fusions des sorts
@@ -64,7 +82,7 @@ Vous pouvez y jeter un coup d'œil si vous le souhaitez.
  - [[Combat]]
 	 - Mis à jour des boucliers.
 	 - Ajout du report d'action 
- - Ajout de la page [[Negotium/public_wiki/Expériences|Expériences]]
+ - Ajout de la page [[Experiences|Experiences]]
 	 - Description brève
 	 - Tableau pour augmenter les caractéristiques
 	 - Tableaux pour agmenter l'utilisation des armes et boucliers

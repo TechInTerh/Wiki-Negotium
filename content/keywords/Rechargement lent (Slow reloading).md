@@ -1,1 +1,1 @@
-Vous devez utiliser un point d'action pour recharger.
+Vous devez utiliser deux points d'action pour recharger.
