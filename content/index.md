@@ -31,7 +31,11 @@ Les sorts [[Contrôle mental]],[[Incantomancie]], [[Illusion]],[[Férocité de l
 Vous pouvez y jeter un coup d'œil si vous le souhaitez.
 
 ## Versions
-#### 0.5
+
+#### 0.5.1 (08/09/2026)
+- Modification de [[Manipulation du feu (pyromancie)]], avec maintenant 9 colonnes au lieu de 5.
+
+#### 0.5 (14/08/2026)
 - Mis à jour des armes dans [[Experiences]]
 	- Augmentation des dégats de l'épée courte et de l'arc
 	- Les capacités coutent une réaction au lieu d'un point d'action
