@@ -29,12 +29,12 @@ Note : dasher provoque les attaques d'opportunité.
 | Reaction/1 point d'action | 1   | 1-2  | 1-8   | 1-12  |
 | Palier max                | 2   | 4    | 6     | 8     |
 
-| Nb augmentations                 | 0<br>(default) | 1<br>(1 pts) | 2<br>(2 pts) | 3<br>(4 pts) | 4<br>(6 pts) | 5<br>(10 pts) | 6<br>(14 pts) | 7<br>(20 pts) | 8<br>(30 pts) |
-| -------------------------------- | -------------- | ------------ | ------------ | ------------ | ------------ | ------------- | ------------- | ------------- | ------------- |
-| Portée                           | 6m             | 9m           | 12m          | 16m          | 20m          | 26m           | 35m           | 50m           | 100m          |
-| Dégât contact                    | 0              | 1d6          | 2d6          | 4d6          | 6d6          | 9d6           | 12d6          | 16d6          | 20d6          |
-| Projection ennemis               | 0              | 1m           | 2m           | 3m           | 4m           | 6m            | 9m            | 12m           | 16m           |
-| Nombre de <br>cibles différentes | 1              | X            | 2            | X            | 3            | 4             | 5             | 6             | 8             |
+| Nb augmentations                 | 0 pts<br>(default) | 1 pts | 2 pts | 4 pts | 6 pts | 8 pts | 12 pts | 16 pts | 24 pts |
+| -------------------------------- | ------------------ | ----- | ----- | ----- | ----- | ----- | ------ | ------ | ------ |
+| Portée                           | 6m                 | 9m    | 12m   | 16m   | 20m   | 26m   | 35m    | 50m    | 100m   |
+| Dégât contact                    | 0                  | 1d6   | 2d6   | 4d6   | 6d6   | 9d6   | 12d6   | 16d6   | 20d6   |
+| Projection ennemis               | 0                  | 1m    | 2m    | 3m    | 4m    | 6m    | 9m     | 12m    | 16m    |
+| Nombre de <br>cibles différentes | 1                  | X     | 2     | X     | 3     | 4     | 5      | 6      | 8      |
 
 
 ##### Exemples
@@ -59,12 +59,12 @@ Une éclatante traînée lumineuse est émise de la pointe de votre doigt vers u
 | Reaction/1 point d'action | X   | 1    | 1-4  | 1-8   |
 | Palier max                | 2   | 4    | 6    | 8     |
 
-| Nb augmentations         | 0<br>(default) | 1<br>(1 pts) | 2<br>(2 pts) | 3<br>(4 pts) | 4<br>(6 pts) | 5<br>(8 pts) | 6<br>(12 pts) | 7<br>(16 pts) | 8<br>(24 pts) |
-| ------------------------ | -------------- | ------------ | ------------ | ------------ | ------------ | ------------ | ------------- | ------------- | ------------- |
-| Portée                   | 6m             | 9m           | 12m          | 18m          | 24m          | 32m          | 50m           | 100m          | 200m          |
-| Dégâts (cible principal) | 3d6            | 4d6          | 5d6          | 7d6          | 9d6          | 12d6         | 15d6          | 20d6          | 25d6          |
-| Dégâts (zone autour)     | 0              | 2d6          | 3d6          | 4d6          | 5d6          | 6d6          | 7d6           | 9d6           | 12d6          |
-| Rayon d'explosion        | 1m             | 2m           | 4m           | 6m           | 8m           | 12m          | 16m           | 24m           | 32m           |
+| Nb augmentations         | 0 pts<br>(default) | 1 pts | 2 pts | 4 pts | 6 pts | 8 pts | 12 pts | 16 pts | 24 pts |
+| ------------------------ | ------------------ | ----- | ----- | ----- | ----- | ----- | ------ | ------ | ------ |
+| Portée                   | 6m                 | 9m    | 12m   | 18m   | 24m   | 32m   | 50m    | 100m   | 200m   |
+| Dégâts (cible principal) | 3d6                | 4d6   | 5d6   | 7d6   | 9d6   | 12d6  | 15d6   | 20d6   | 25d6   |
+| Dégâts (zone autour)     | 0                  | 2d6   | 3d6   | 4d6   | 5d6   | 6d6   | 7d6    | 9d6    | 12d6   |
+| Rayon d'explosion        | 1m                 | 2m    | 4m    | 6m    | 8m    | 12m   | 16m    | 24m    | 32m    |
 
 ##### Exemples
 
@@ -91,12 +91,12 @@ Vous pouvez également dépenser de la malfaisance pour créer un mur de feu.
 | Palier max                | 2   | 4    | 6    | 8     |
 
 
-| Nb augmentations    | 0<br>(default) | 1<br>(1 pts) | 2<br>(2 pts) | 3<br>(4 pts) | 4<br>(6 pts) | 5<br>(8 pts) | 6<br>(12 pts) | 7<br>(16 pts) | 8<br>(24 pts) |
-| ------------------- | -------------- | ------------ | ------------ | ------------ | ------------ | ------------ | ------------- | ------------- | ------------- |
-| Longueur            | 3m             | 5m           | 7m           | 9m           | 12m          | 14m          | 16m           | 20m           | 24m           |
-| Largeur             | 1m             | 2m           | 3m           | 4m           | 5m           | 6m           | 7m            | 8m            | 9m            |
-| Dégâts              | 2d6            | 3d6          | 4d6          | 6d6          | 8d6          | 10d6         | 12d6          | 15d6          | 18d6          |
-| Nombre tours du mur | 0              | 1            | 2            | 3            | 4            | 6            | 8             | 12            | 16            |
+| Cout de malfaisance<br>Dasg | 0 pts<br>(default) | 1 pts | 2 pts | 4 pts | 6 pts | 8 pts | 12 pts | 16 pts | 24 pts |
+| --------------------------- | ------------------ | ----- | ----- | ----- | ----- | ----- | ------ | ------ | ------ |
+| Longueur                    | 3m                 | 5m    | 7m    | 9m    | 12m   | 14m   | 16m    | 20m    | 24m    |
+| Largeur                     | 1m                 | 2m    | 3m    | 4m    | 5m    | 6m    | 7m     | 8m     | 9m     |
+| Dégâts                      | 2d6                | 3d6   | 4d6   | 6d6   | 8d6   | 10d6  | 12d6   | 15d6   | 18d6   |
+| Nombre tours du mur         | 0                  | 1     | 2     | 3     | 4     | 6     | 8      | 12     | 16     |
 
 ##### Exemples
 
